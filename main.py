@@ -1,60 +1,30 @@
-from dotenv import load_dotenv
 import os
-import base64
-import json
-from requests import post, get
-from urllib.parse import urlencode
+import spotipy
+from spotipy.oauth2 import SpotifyOAuth
+from dotenv import load_dotenv
 
 load_dotenv()
 
-client_id = os.getenv("CLIENT_ID")
-client_secret = os.getenv("CLIENT_SECRET")
+client_id = os.environ.get('CLIENT_ID')
+client_secret = os.environ.get('CLIENT_SECRET')
+redirect_uri = os.environ.get('REDIRECT_URI')
 
-def get_token():
-    auth_string = client_id + ":" + client_secret
-    auth_bytes = auth_string.encode('utf-8')
-    auth_base64 = str(base64.b64encode(auth_bytes), "utf-8")
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=client_id, client_secret=client_secret, 
+redirect_uri="http://localhost:8888/callback", scope='playlist-read-private'))
+def get_playlist_tracks(playlist_id):
+    results = sp.playlist_tracks(playlist_id)
+    tracks = results['items']
 
-    url = "https://accounts.spotify.com/api/token"
-    headers = {
-        "Authorization": "Basic " + auth_base64,
-        "Content-Type": "application/x-www-form-urlencoded"
-    }
-    data = {"grant_type":"client_credentials"}
-    result = post(url, headers = headers, data = data)
-    json_result = json.loads(result.content)
-    token = json_result['access_token']
-    return token
+    while results['next']:
+        results = sp.next(results)
+        tracks.extend(results['items'])
 
-def get_auth_header(token):
-    return {"Authorization": "Bearer " + token}
+    return tracks
 
-def search_for_artist(token, artist_name):
-    url = "https://api.spotify.com/v1/search"
-    headers = get_auth_header(token)
-    query_params = urlencode({"q": artist_name, "type": "artist", "limit": 1})  # Encode the query parameters
-    query_url = f"{url}?{query_params}"  # Append encoded query parameters to the URL
-    result = get(query_url, headers=headers)
-    json_result = json.loads(result.content)["artists"]["items"]
-    if len(json_result) == 0:
-        print("No artist with this name exists...")
-        return None
-    return json_result[0]
-def get_songs_by_artist(token, artist_id):
-    url = f"https://api.spotify.com/v1/artists/{artist_id}/top-tracks?country=US"
-    headers = get_auth_header(token)
-    result = get(url, headers = headers)
-    json_result = json.loads(result.content)["tracks"]
-    return json_result
 
-def hi():
-    print("bruh")
-
-token = get_token()
-result = search_for_artist(token, "Coldplay")
-artist_id = result["id"]
-songs = get_songs_by_artist(token, artist_id)
-
-for idx, song in enumerate(songs):
-    print(f"{idx + 1}. {song['name']}")
-
+playlist_id = '5jbbLJqtKuqhRENtQFdrqi'
+tracks = get_playlist_tracks(playlist_id)
+for idx, track in enumerate(tracks, start=1):
+    track_name = track['track']['name']
+    track_artist = track['track']['artists'][0]['name']
+    print(f"{idx}. {track_name} - {track_artist}")
