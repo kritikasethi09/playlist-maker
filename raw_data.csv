@@ -1,0 +1,698 @@
+Track Name,Artist Name,Popularity,Acousticness,Danceability,Energy,Instrumentalness,Key,Loudness,Mode,Speechiness,Tempo,Time Signature,Valence,Genres
+Sleep On The Floor,The Lumineers,72,0.249,0.389,0.431,0.0,7,-8.061,1,0.0344,142.14,4,0.275,folk-pop
+Saturday Nights,Khalid,72,0.606,0.551,0.44,3.02e-05,10,-8.559,1,0.0985,167.923,4,0.341,pop
+Marry You,Bruno Mars,80,0.332,0.621,0.82,0.0,10,-4.865,1,0.0367,144.905,4,0.452,dance pop
+Hard Times,Paramore,77,0.00647,0.695,0.818,4.87e-06,5,-5.379,0,0.0334,119.965,4,0.916,candy pop
+Stubborn Love,The Lumineers,73,0.607,0.598,0.56,0.0432,0,-11.679,1,0.0375,115.01,4,0.221,folk-pop
+The Sweet Escape,Gwen Stefani,76,0.191,0.756,0.77,0.0,1,-3.502,1,0.0343,119.961,4,0.73,dance pop
+"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Pitbull,85,0.191,0.671,0.939,0.0,8,-3.206,1,0.161,129.024,4,0.53,dance pop
+Riptide,Vance Joy,87,0.431,0.484,0.731,0.0,1,-6.694,1,0.0379,101.654,4,0.51,folk-pop
+Ends of the Earth,Lord Huron,6,0.274,0.555,0.584,0.0228,4,-8.667,1,0.0301,120.965,4,0.41,indie folk
+Runaway Kids,HARBOUR,0,0.00646,0.513,0.847,0.0,7,-6.662,1,0.0472,100.977,4,0.338,cincinnati indie
+18,Anarbor,65,0.0603,0.724,0.854,0.0,11,-2.779,1,0.0997,98.056,4,0.88,neon pop punk
+Just the Two of Us (feat. Bill Withers),"Grover Washington, Jr.",77,0.41,0.749,0.497,0.0499,10,-12.609,0,0.105,95.818,4,0.585,soul jazz
+Paper Rings,Taylor Swift,87,0.0129,0.811,0.719,1.36e-05,9,-6.553,1,0.0497,103.979,4,0.865,pop
+Out Of The Woods,Taylor Swift,72,0.00103,0.552,0.842,1.17e-05,7,-6.938,1,0.0373,91.991,4,0.343,pop
+Crash My Car,COIN,3,0.00178,0.244,0.645,0.00574,5,-5.863,1,0.0456,183.577,5,0.529,pov: indie
+Love Story (Taylor’s Version),Taylor Swift,83,0.13,0.627,0.792,3.97e-06,2,-4.311,1,0.031,119.054,4,0.415,pop
+She Calls Me Back,Noah Kahan,71,0.0853,0.752,0.679,0.0,11,-6.453,1,0.0391,127.945,4,0.704,pov: indie
+"Everywhere, Everything",Noah Kahan,69,0.378,0.456,0.383,0.0,11,-9.184,1,0.0344,179.772,3,0.301,pov: indie
+Ho Hey,The Lumineers,79,0.794,0.685,0.466,2.06e-06,0,-9.074,1,0.0304,79.936,4,0.353,folk-pop
+Ophelia,The Lumineers,78,0.613,0.664,0.573,0.000363,5,-6.519,1,0.0277,76.023,4,0.566,folk-pop
+All My Love,Noah Kahan,76,0.32,0.637,0.651,0.0,2,-7.089,1,0.0521,115.926,4,0.485,pov: indie
+Cleopatra,The Lumineers,74,0.228,0.536,0.775,0.000143,8,-6.765,1,0.0394,151.393,4,0.485,folk-pop
+Stick Season,Noah Kahan,81,0.782,0.662,0.488,0.0,9,-6.894,1,0.0682,117.913,4,0.817,pov: indie
+Fly Me To The Moon (In Other Words),Frank Sinatra,75,0.453,0.668,0.26,0.0,7,-14.256,1,0.0523,119.416,4,0.368,adult standards
+Isn't She Lovely,Stevie Wonder,70,0.202,0.747,0.692,3.39e-05,1,-8.956,0,0.0474,118.698,4,0.904,motown
+My Girl,The Temptations,82,0.635,0.572,0.418,0.0,0,-10.738,1,0.0349,104.566,4,0.694,memphis soul
+Here Comes The Sun - Remastered 2009,The Beatles,86,0.0339,0.557,0.54,0.00248,9,-10.484,1,0.0347,129.171,4,0.394,beatlesque
+Wouldn't It Be Nice,The Beach Boys,70,0.718,0.392,0.629,3.65e-06,5,-7.056,1,0.0334,124.511,4,0.72,baroque pop
+Build Me Up Buttercup,The Foundations,73,0.242,0.564,0.555,0.0,0,-9.07,1,0.0293,67.082,4,0.882,bubblegum pop
+The Way You Look Tonight,Frank Sinatra,69,0.798,0.622,0.24,0.0,5,-14.067,0,0.0363,132.234,4,0.587,adult standards
+The Lady In Red,Chris de Burgh,78,0.332,0.548,0.294,3.34e-06,10,-17.112,1,0.0333,76.698,4,0.491,new wave pop
+Don't Go Breaking My Heart,Elton John,82,0.149,0.729,0.844,2.87e-06,5,-8.824,1,0.0344,131.459,4,0.777,glam rock
+Uptown Girl,Billy Joel,83,0.0755,0.701,0.944,0.0,4,-2.986,1,0.0455,128.993,4,0.792,album rock
+Lay All Your Love On Me,ABBA,79,0.117,0.678,0.727,0.00396,2,-7.844,0,0.0258,133.481,4,0.71,europop
+Can't Take My Eyes off You,Frankie Valli,72,0.566,0.575,0.764,1.07e-05,4,-7.448,1,0.0746,123.821,4,0.536,adult standards
+Ain't No Mountain High Enough,Marvin Gaye,87,0.43,0.663,0.6,0.0,7,-10.87,1,0.032,129.991,4,0.8,classic soul
+Imagine - Remastered 2010,John Lennon,79,0.907,0.547,0.257,0.183,0,-12.358,1,0.0252,75.752,4,0.169,beatlesque
+Good Vibrations - Remastered 2001,The Beach Boys,75,0.326,0.396,0.473,0.000124,10,-7.67,0,0.0345,133.449,4,0.385,baroque pop
+Kokomo,The Beach Boys,73,0.00863,0.682,0.635,0.0,0,-10.05,1,0.0346,115.584,4,0.927,baroque pop
+Surfin' U.S.A. - Remastered 2001,The Beach Boys,76,0.661,0.55,0.854,0.0,3,-5.968,1,0.036,159.231,4,0.965,baroque pop
+We Didn't Start the Fire,Billy Joel,78,0.0771,0.712,0.967,0.0,7,-5.206,1,0.047,145.024,4,0.895,album rock
+More Than a Feeling,Boston,82,0.00088,0.377,0.681,0.0023,7,-8.039,1,0.0298,108.789,4,0.285,album rock
+Jessie's Girl,Rick Springfield,75,0.165,0.727,0.834,0.0,2,-5.851,1,0.0496,131.7,4,0.816,album rock
+Don't Stop Me Now,Queen,63,0.0563,0.561,0.757,0.00127,5,-10.061,1,0.192,156.432,4,0.64,classic rock
+Summer Of '69,Bryan Adams,86,0.0183,0.508,0.834,0.0,2,-6.205,1,0.0386,139.131,4,0.774,canadian pop
+Born To Be Wild - Single Version,Steppenwolf,71,0.262,0.439,0.734,0.333,2,-12.168,1,0.097,145.703,4,0.54,acid rock
+Don't Stop Believin',Journey,86,0.127,0.5,0.748,0.0,4,-9.072,1,0.0363,118.852,4,0.514,album rock
+Brown Eyed Girl,Van Morrison,84,0.185,0.491,0.583,0.0,7,-10.964,1,0.0376,150.566,4,0.908,classic rock
+"Fun, Fun, Fun",The Beach Boys,59,0.222,0.52,0.701,0.0,3,-8.953,1,0.0345,154.177,4,0.965,baroque pop
+Livin' On A Prayer,Bon Jovi,88,0.0778,0.532,0.887,0.000214,0,-3.757,1,0.0335,122.511,4,0.795,glam metal
+Good Vibrations,The Beach Boys,53,0.332,0.371,0.424,4.95e-06,10,-9.497,1,0.0411,151.621,4,0.325,baroque pop
+Can't Help Falling in Love,Elvis Presley,82,0.941,0.396,0.293,0.000196,2,-14.062,1,0.0275,100.307,3,0.343,rock-and-roll
+(You Make Me Feel Like) A Natural Woman,Aretha Franklin,72,0.679,0.603,0.271,0.0,5,-10.083,1,0.0284,110.89,3,0.405,classic soul
+Dancing in the Moonlight,King Harvest,77,0.739,0.657,0.435,0.0,10,-15.707,1,0.0552,135.975,4,0.771,soft rock
+Jailhouse Rock,Elvis Presley,70,0.41,0.647,0.582,1.93e-06,10,-9.538,0,0.0755,167.396,4,0.915,rock-and-roll
+Isn't She Lovely,Stevie Wonder,68,0.182,0.481,0.826,0.00352,1,-6.974,0,0.0851,118.679,4,0.819,motown
+Separate Ways (Worlds Apart),Journey,76,0.0188,0.451,0.962,3.17e-06,0,-3.947,1,0.0734,131.435,4,0.377,album rock
+Any Way You Want It,Journey,57,0.000376,0.517,0.927,0.00819,7,-7.152,1,0.0479,138.154,4,0.597,album rock
+Highway to Hell,AC/DC,87,0.061,0.574,0.913,0.00158,6,-4.793,0,0.133,115.728,4,0.423,australian rock
+Vienna,Billy Joel,81,0.659,0.532,0.495,0.0,10,-6.662,1,0.0343,124.936,4,0.308,album rock
+Piano Man,Billy Joel,79,0.605,0.331,0.55,3.96e-06,0,-6.483,1,0.0272,177.734,3,0.429,album rock
+Heaven Is A Place On Earth,Belinda Carlisle,60,0.031,0.64,0.81,2.22e-06,4,-10.19,1,0.033,122.868,4,0.804,new romantic
+Put Your Records On,Corinne Bailey Rae,82,0.167,0.739,0.511,1.34e-06,9,-7.844,1,0.0362,96.038,4,0.542,british soul
+Just A Little While,The 502s,66,0.0897,0.636,0.788,0.0,5,-9.177,0,0.0432,125.0,4,0.701,
+Feels Good To Be Me,The 502s,41,0.0594,0.724,0.733,4.08e-05,7,-10.558,1,0.0683,121.053,4,0.874,
+Summertime Singalong Vibe,The 502s,40,0.193,0.561,0.685,0.0,1,-12.363,0,0.099,104.132,4,0.819,
+Little Talks,Of Monsters and Men,82,0.0206,0.457,0.757,0.0,1,-5.177,1,0.032,102.961,4,0.417,folk-pop
+Quarter-Life Crisis,Judah & the Lion,0,0.00509,0.46,0.945,7.79e-05,10,-4.483,1,0.176,76.445,4,0.397,banjo
+Blame It On The Girls,MIKA,38,0.0867,0.755,0.871,3.83e-05,11,-5.172,1,0.0687,144.535,4,0.931,pop rock
+Someone New,Hozier,63,0.427,0.446,0.533,3.26e-06,7,-5.955,1,0.046,183.81,4,0.58,irish singer-songwriter
+Heartless,The Weeknd,85,0.0236,0.537,0.746,1.01e-06,10,-5.507,0,0.15,170.062,4,0.252,canadian contemporary r&b
+No Role Modelz,J. Cole,91,0.324,0.69,0.521,0.0,10,-8.492,0,0.339,100.028,4,0.494,conscious hip hop
+Bitch Better Have My Money,Rihanna,80,0.0509,0.781,0.728,1.94e-06,1,-4.981,1,0.0621,102.99,4,0.395,barbadian pop
+Come Get Her,Rae Sremmurd,76,0.187,0.689,0.564,0.0,2,-6.226,1,0.136,185.023,4,0.123,melodic rap
+MIDDLE CHILD,J. Cole,84,0.149,0.837,0.364,0.0,8,-11.713,1,0.276,123.984,4,0.463,conscious hip hop
+Work Out,J. Cole,84,0.0531,0.831,0.427,0.0,2,-6.903,1,0.106,93.004,4,0.216,conscious hip hop
+Love Yourz,J. Cole,79,0.589,0.677,0.638,0.0,8,-8.631,1,0.333,82.81,4,0.435,conscious hip hop
+Weekend (feat. Miguel),Mac Miller,80,0.47,0.843,0.435,0.0,8,-8.442,1,0.178,120.058,4,0.19,hip hop
+NEVER REALLY MINE,The Lumineers,54,0.177,0.346,0.744,1.5e-05,5,-4.507,1,0.0401,197.834,4,0.684,folk-pop
+WHERE WE ARE,The Lumineers,64,0.759,0.573,0.507,1.37e-06,11,-8.084,1,0.0342,123.183,4,0.363,folk-pop
+Democracy (Bonus Track),The Lumineers,41,0.357,0.441,0.487,0.0,9,-8.367,1,0.0305,87.229,4,0.259,folk-pop
+Foreigner's God,Hozier,57,0.161,0.502,0.445,0.000466,8,-7.622,1,0.0294,88.866,4,0.377,irish singer-songwriter
+Water Glass,Cannon,53,0.504,0.75,0.475,1.69e-06,5,-7.574,0,0.153,74.972,4,0.642,
+42,Mumford & Sons,0,0.203,0.317,0.481,0.00132,5,-9.572,1,0.0384,175.871,4,0.275,modern folk rock
+I Feel Good About This,The Mowgli's,0,0.00428,0.525,0.841,0.0,7,-6.053,1,0.0419,119.864,4,0.495,indie poptimism
+Goodie Bag,Still Woozy,78,0.821,0.739,0.522,0.00124,7,-12.304,0,0.151,138.263,4,0.619,bedroom pop
+Skinny Love,Bon Iver,1,0.844,0.593,0.263,5.36e-06,4,-14.029,0,0.0567,76.379,4,0.109,chamber pop
+Buy Dirt,Jordan Davis,84,0.639,0.586,0.559,0.0,4,-6.725,1,0.05,177.945,4,0.437,contemporary country
+Lost Time,LÉON,45,0.279,0.471,0.72,0.0,1,-6.752,1,0.0586,83.442,4,0.321,indie poptimism
+Hope Is A Heartache,LÉON,63,0.429,0.468,0.495,0.0,5,-6.634,1,0.0822,171.4,4,0.235,indie poptimism
+Cherry Wine - Live,Hozier,69,0.951,0.415,0.11,0.00236,1,-14.901,1,0.0388,81.876,4,0.234,irish singer-songwriter
+Work Song,Hozier,77,0.749,0.531,0.363,0.0,10,-7.672,1,0.0608,121.412,4,0.259,irish singer-songwriter
+BRIGHTSIDE,The Lumineers,54,0.359,0.549,0.715,0.0,10,-7.01,1,0.0356,134.074,4,0.555,folk-pop
+A.M. RADIO,The Lumineers,63,0.568,0.469,0.562,0.000135,1,-6.402,1,0.0343,138.197,4,0.483,folk-pop
+the 1,Taylor Swift,82,0.757,0.777,0.357,7.28e-06,0,-6.942,1,0.0522,139.883,4,0.172,pop
+hoax,Taylor Swift,72,0.966,0.662,0.181,3.86e-06,8,-15.065,1,0.0415,118.819,4,0.429,pop
+iMi,Bon Iver,0,0.889,0.489,0.396,0.00713,8,-11.57,1,0.053,134.131,4,0.523,chamber pop
+Renegade (feat. Taylor Swift),Big Red Machine,0,0.435,0.532,0.708,0.0236,0,-8.121,1,0.0505,167.977,4,0.586,eau claire indie
+The Ghost of Cincinnati,Big Red Machine,0,0.866,0.702,0.476,0.397,9,-10.398,0,0.0264,106.032,4,0.733,eau claire indie
+Take Me to Church,Hozier,80,0.634,0.566,0.664,0.0,4,-5.303,0,0.0464,128.945,4,0.437,irish singer-songwriter
+Cherry Wine - Live,Hozier,69,0.951,0.415,0.11,0.00236,1,-14.901,1,0.0388,81.876,4,0.234,irish singer-songwriter
+Ends of the Earth,Lord Huron,71,0.267,0.553,0.578,0.0377,4,-8.679,1,0.0299,120.993,4,0.407,indie folk
+BIRTHDAY,The Lumineers,48,0.371,0.556,0.608,0.0,2,-6.572,1,0.0422,78.433,4,0.524,folk-pop
+ROLLERCOASTER,The Lumineers,49,0.975,0.403,0.186,0.000867,5,-12.188,1,0.0387,197.569,4,0.22,folk-pop
+REMINGTON,The Lumineers,47,0.617,0.637,0.162,1.22e-06,4,-12.048,0,0.0335,169.957,4,0.341,folk-pop
+Jackie and Wilson,Hozier,71,0.0579,0.555,0.727,7.52e-06,6,-4.202,1,0.0388,82.142,4,0.739,irish singer-songwriter
+Banana Pancakes,Jack Johnson,73,0.607,0.816,0.375,8.66e-06,7,-8.053,1,0.0996,114.303,4,0.615,neo mellow
+From Eden,Hozier,67,0.584,0.399,0.673,2.44e-05,0,-5.506,1,0.0509,142.255,5,0.285,irish singer-songwriter
+You’re Gonna Go Far,Noah Kahan,81,0.599,0.59,0.36,0.0,7,-9.643,1,0.0301,169.909,4,0.379,pov: indie
+The Spins,Mac Miller,45,0.0135,0.794,0.766,0.0,9,-3.894,0,0.0377,127.007,4,0.55,hip hop
+3005,Childish Gambino,81,0.112,0.664,0.447,0.0,6,-7.272,0,0.289,83.138,4,0.659,atl hip hop
+This Is America,Childish Gambino,72,0.117,0.854,0.463,0.0,5,-6.159,1,0.137,120.024,4,0.549,atl hip hop
+Wet Dreamz,J. Cole,86,0.0697,0.495,0.722,0.0,6,-8.108,0,0.357,175.627,4,0.539,conscious hip hop
+Alright,Kendrick Lamar,83,0.0742,0.796,0.766,0.0,7,-5.974,1,0.238,110.034,4,0.558,conscious hip hop
+IV. Sweatpants,Childish Gambino,72,0.152,0.712,0.463,0.0,1,-9.33,0,0.143,80.029,4,0.593,atl hip hop
+Die For You,The Weeknd,87,0.111,0.582,0.525,0.0,1,-7.163,0,0.0627,133.249,4,0.51,canadian contemporary r&b
+Self Care,Mac Miller,81,0.367,0.52,0.538,0.00187,1,-8.109,1,0.206,141.894,4,0.177,hip hop
+Money Trees,Kendrick Lamar,84,0.0703,0.716,0.531,0.0,7,-7.355,1,0.122,71.994,4,0.344,conscious hip hop
+G.O.M.D.,J. Cole,1,0.331,0.89,0.393,8.81e-06,4,-10.821,0,0.267,128.084,4,0.304,conscious hip hop
+No Role Modelz,J. Cole,7,0.301,0.692,0.521,0.0,10,-8.465,0,0.33,100.45,4,0.463,conscious hip hop
+See You Again (feat. Kali Uchis),"Tyler, The Creator",94,0.371,0.558,0.559,7.49e-06,6,-9.222,1,0.0959,78.558,4,0.62,hip hop
+Isis (feat. Logic),Joyner Lucas,72,0.206,0.884,0.936,0.0,1,-3.931,1,0.167,120.004,4,0.758,boston hip hop
+Bonfire,Childish Gambino,3,0.0594,0.506,0.745,0.0,8,-6.044,1,0.331,161.808,4,0.311,atl hip hop
+Oh Wow,Roy Purdy,43,0.108,0.764,0.697,0.0,1,-4.598,1,0.0535,96.928,4,0.576,meme rap
+Curious,Rich Brian,48,0.904,0.817,0.433,1.52e-06,6,-7.26,1,0.0501,111.059,4,0.9,indonesian hip hop
+Donald Trump,Mac Miller,31,0.0318,0.716,0.936,0.0,1,-4.968,0,0.123,81.508,4,0.799,hip hop
+Mockingbird,Eminem,91,0.209,0.637,0.678,0.0,0,-3.798,1,0.266,84.039,4,0.254,detroit hip hop
+1985 - Intro to “The Fall Off”,J. Cole,64,0.145,0.679,0.648,0.0,2,-5.892,1,0.445,94.378,4,0.635,conscious hip hop
+Redbone,Childish Gambino,85,0.174,0.745,0.353,0.00662,1,-10.614,1,0.0983,160.111,4,0.598,atl hip hop
+Lost,Frank Ocean,86,0.0272,0.913,0.603,0.000503,8,-4.892,1,0.226,123.061,4,0.497,lgbtq+ hip hop
+Rap God,Eminem,79,0.397,0.708,0.843,0.0,7,-2.66,1,0.314,148.14,4,0.625,detroit hip hop
+The Monster,Eminem,60,0.0525,0.781,0.853,0.0,1,-3.68,0,0.0715,110.049,4,0.624,detroit hip hop
+Miss America,J. Cole,51,0.00425,0.512,0.677,0.000951,9,-7.407,0,0.14,172.208,4,0.204,conscious hip hop
+BRACKETS,J. Cole,58,0.188,0.678,0.567,1.67e-06,10,-9.148,0,0.261,84.039,4,0.658,conscious hip hop
+Good News,Mac Miller,56,0.853,0.794,0.32,0.134,1,-12.92,0,0.173,174.088,4,0.241,hip hop
+KOD,J. Cole,69,0.21,0.823,0.783,0.0,0,-6.274,1,0.154,141.882,4,0.199,conscious hip hop
+Immortal,J. Cole,66,0.455,0.744,0.43,2.73e-06,3,-10.604,0,0.309,92.039,4,0.266,conscious hip hop
+Forbidden Fruit (feat. Kendrick Lamar),J. Cole,69,0.546,0.84,0.504,0.00131,1,-9.354,1,0.383,110.027,4,0.406,conscious hip hop
+Photograph,J. Cole,61,0.0299,0.691,0.487,0.0,1,-6.416,1,0.268,104.98,3,0.358,conscious hip hop
+Pink + White,Frank Ocean,89,0.667,0.545,0.545,5.48e-05,9,-7.362,1,0.107,159.94,3,0.549,lgbtq+ hip hop
+In My Room,Frank Ocean,79,0.594,0.861,0.647,0.661,7,-7.425,1,0.0675,158.037,4,0.67,lgbtq+ hip hop
+LOVE. FEAT. ZACARI.,Kendrick Lamar,85,0.264,0.8,0.585,0.0,10,-7.343,1,0.0924,126.058,4,0.779,conscious hip hop
+Sparks Will Fly (feat. Jhené Aiko),J. Cole,63,0.0674,0.502,0.821,0.0,1,-6.904,0,0.23,122.835,5,0.683,conscious hip hop
+Kool Aid & Frozen Pizza,Mac Miller,30,0.154,0.657,0.845,0.0,11,-4.57,1,0.3,89.835,4,0.706,hip hop
+Come Back to Earth,Mac Miller,75,0.89,0.272,0.238,0.00925,2,-12.148,0,0.0349,83.507,4,0.119,hip hop
+4 Your Eyez Only,J. Cole,68,0.367,0.701,0.485,6.31e-05,11,-10.305,0,0.364,78.863,4,0.496,conscious hip hop
+p r i d e . i s . t h e . d e v i l (with Lil Baby),J. Cole,77,0.104,0.861,0.656,0.0,4,-7.867,0,0.425,88.967,4,0.331,conscious hip hop
+Save Your Tears,The Weeknd,89,0.0212,0.68,0.826,1.24e-05,0,-5.487,1,0.0309,118.051,4,0.644,canadian contemporary r&b
+Creepin' (with The Weeknd & 21 Savage),Metro Boomin,94,0.417,0.715,0.62,0.0,1,-6.005,0,0.0484,97.95,4,0.172,hip hop
+l e t . g o . m y . h a n d (with Bas & 6LACK),J. Cole,69,0.506,0.583,0.625,0.0,1,-8.011,1,0.277,89.812,4,0.516,conscious hip hop
+A Tale Of 2 Citiez,J. Cole,69,0.553,0.771,0.536,1.05e-06,11,-8.534,1,0.323,94.995,4,0.343,conscious hip hop
+Father Time (feat. Sampha),Kendrick Lamar,75,0.181,0.514,0.779,0.0,10,-4.365,0,0.344,152.869,4,0.517,conscious hip hop
+Stan,Eminem,84,0.0371,0.78,0.768,2.34e-06,6,-4.325,0,0.238,80.063,4,0.507,detroit hip hop
+Starboy,The Weeknd,93,0.141,0.679,0.587,6.35e-06,7,-7.015,1,0.276,186.003,4,0.486,canadian contemporary r&b
+Fire Squad,J. Cole,0,0.28,0.516,0.738,0.0,11,-7.209,1,0.414,175.427,4,0.599,conscious hip hop
+a p p l y i n g . p r e s s u r e,J. Cole,62,0.0814,0.699,0.759,0.0,1,-5.302,1,0.311,83.092,4,0.404,conscious hip hop
+Backseat Freestyle,Kendrick Lamar,33,0.000739,0.546,0.651,0.0,1,-7.601,1,0.3,77.878,4,0.646,conscious hip hop
+Super Rich Kids,Frank Ocean,77,0.219,0.739,0.419,0.0,3,-8.241,0,0.0854,60.493,4,0.58,lgbtq+ hip hop
+Count Me Out,Kendrick Lamar,77,0.671,0.776,0.431,0.0,4,-7.544,0,0.091,133.999,4,0.495,conscious hip hop
+m.A.A.d city,Kendrick Lamar,69,0.0538,0.487,0.729,4.07e-06,2,-6.815,1,0.271,91.048,4,0.217,conscious hip hop
+"King's Dead (with Kendrick Lamar, Future & James Blake)",Jay Rock,72,0.000813,0.645,0.705,0.0,1,-5.008,1,0.299,137.133,4,0.376,conscious hip hop
+Swimming Pools (Drank),Kendrick Lamar,81,0.00627,0.577,0.447,0.00022,8,-5.892,1,0.277,74.236,4,0.189,conscious hip hop
+Mona Lisa (feat. Kendrick Lamar),Lil Wayne,69,0.371,0.856,0.694,0.0,2,-4.393,1,0.169,122.08,4,0.489,hip hop
+Hola Señorita,GIMS,66,0.386,0.588,0.796,0.0,0,-3.945,0,0.262,192.128,4,0.546,french hip hop
+Meleğim,Soolking,68,0.188,0.682,0.697,0.0,3,-4.276,0,0.0757,95.012,4,0.57,french hip hop
+Pour oublier,Kendji Girac,55,0.185,0.758,0.719,3.9e-06,1,-6.524,0,0.0547,124.056,4,0.752,french pop
+Ramenez la coupe à la maison,Vegedream,73,0.0358,0.808,0.661,0.0,0,-6.237,0,0.0395,107.992,4,0.804,french hip hop
+NIGHTRIDER,Arizona Zervas,65,0.0876,0.66,0.755,0.0,0,-4.501,0,0.0469,145.948,4,0.862,pop rap
+Mona Lisa (Spider-Man: Across the Spider-Verse),Dominic Fike,86,0.231,0.759,0.646,0.0,1,-7.603,1,0.12,111.043,4,0.445,alternative pop rock
+Kevin’s Heart,J. Cole,76,0.482,0.829,0.527,0.0,6,-6.644,0,0.367,116.079,4,0.475,conscious hip hop
+In Case You Didn't Know,Brett Young,77,0.386,0.607,0.536,0.0,10,-7.306,1,0.0305,147.986,4,0.434,contemporary country
+More Than My Hometown,Morgan Wallen,82,0.615,0.62,0.869,0.0,6,-5.479,1,0.0462,126.019,4,0.597,contemporary country
+Drinkin' Problem,Midland,53,0.055,0.622,0.763,8.91e-06,9,-6.4,1,0.0263,102.0,4,0.621,classic texas country
+Before He Cheats,Carrie Underwood,82,0.271,0.519,0.749,0.0,6,-3.318,0,0.0405,147.905,4,0.29,classic oklahoma country
+If I Die Young,The Band Perry,70,0.348,0.606,0.497,0.0,4,-6.611,1,0.0277,130.739,4,0.362,contemporary country
+Something in the Orange,Zach Bryan,89,0.555,0.369,0.192,8.35e-06,4,-12.151,0,0.04,175.212,3,0.148,classic oklahoma country
+Memory I Don't Mess With,Lee Brice,71,0.171,0.617,0.704,0.0,6,-7.61,0,0.0258,91.541,4,0.57,contemporary country
+You Make It Easy,Jason Aldean,76,0.143,0.375,0.574,0.0,7,-5.305,1,0.0315,132.025,3,0.406,contemporary country
+Whiskey Glasses,Morgan Wallen,85,0.369,0.614,0.68,1.84e-06,6,-4.58,1,0.0289,149.959,4,0.707,contemporary country
+Beautiful Crazy,Luke Combs,84,0.676,0.551,0.402,0.0,11,-7.431,1,0.0262,103.313,4,0.382,contemporary country
+Young Forever,JAY-Z,69,0.417,0.637,0.69,0.0,9,-3.214,0,0.0693,140.329,4,0.103,east coast hip hop
+Redbone,Childish Gambino,12,0.169,0.743,0.344,0.00879,1,-11.174,1,0.118,160.15,4,0.577,atl hip hop
+Retro (Rough),Childish Gambino,0,0.246,0.862,0.614,0.00757,5,-5.875,0,0.0393,110.061,4,0.323,atl hip hop
+Creepin' (with The Weeknd & 21 Savage),Metro Boomin,19,0.361,0.713,0.611,0.0,1,-5.993,0,0.0507,97.936,4,0.173,hip hop
+Good News,Mac Miller,75,0.853,0.794,0.32,0.134,1,-12.92,0,0.173,174.088,4,0.241,hip hop
+Versace on the Floor,Bruno Mars,78,0.196,0.578,0.574,0.0,2,-6.209,1,0.0454,174.152,4,0.301,dance pop
+The Color Violet,Tory Lanez,89,0.157,0.645,0.534,0.0,6,-10.8,0,0.0479,105.02,4,0.463,canadian hip hop
+Heartbeat,Childish Gambino,80,0.00369,0.8,0.545,0.000461,1,-7.002,0,0.127,119.954,4,0.294,atl hip hop
+All The Shine,Childish Gambino,51,0.0223,0.336,0.579,0.000158,0,-8.049,0,0.139,80.093,4,0.354,atl hip hop
+Crooked Smile (feat. TLC),J. Cole,72,0.435,0.606,0.784,0.0,7,-6.293,1,0.268,80.985,4,0.48,conscious hip hop
+Faithfully,Journey,71,0.0979,0.202,0.644,0.0,11,-5.212,1,0.0324,85.04,5,0.252,album rock
+Open Arms,Journey,73,0.584,0.405,0.21,0.0,2,-13.214,1,0.0279,100.577,3,0.174,album rock
+3005,Childish Gambino,17,0.113,0.472,0.448,0.0,6,-7.272,0,0.326,166.077,4,0.636,atl hip hop
+IV. Sweatpants,Childish Gambino,7,0.154,0.71,0.47,0.0,1,-9.33,0,0.142,80.027,4,0.581,atl hip hop
+Bläulich,Apache 207,58,0.069,0.79,0.704,0.000658,10,-7.935,0,0.417,154.007,4,0.212,german hip hop
+Spice Girl,Aminé,65,0.392,0.693,0.46,0.0,0,-7.912,0,0.226,78.09,4,0.873,pop rap
+REEL IT IN,Aminé,77,0.073,0.754,0.342,0.0,10,-8.677,0,0.0991,128.981,4,0.423,pop rap
+Moves,Big Sean,60,0.0433,0.812,0.522,0.0,2,-5.287,1,0.257,75.524,4,0.38,detroit hip hop
+The Motto,Drake,0,0.000146,0.774,0.431,1.99e-05,1,-8.407,1,0.346,201.843,4,0.353,canadian hip hop
+Tommy Lee (feat. Post Malone) - Tommy Lee Remix,Tyla Yaweh,49,0.00492,0.591,0.838,2.63e-06,10,-6.011,1,0.0428,118.983,4,0.49,cali rap
+Heartless,Kanye West,88,0.0515,0.79,0.647,0.0,10,-5.983,0,0.136,87.999,4,0.654,chicago rap
+Hotel Room Service,Pitbull,75,0.00684,0.85,0.631,0.000406,1,-8.401,1,0.227,126.002,4,0.738,dance pop
+No Hands (feat. Roscoe Dash & Wale),Waka Flocka Flame,79,0.00544,0.76,0.595,0.0,1,-6.366,1,0.0391,131.497,4,0.361,atl hip hop
+Pure Water (with Migos),Mustard,0,0.172,0.68,0.559,0.0,0,-5.545,1,0.129,202.006,4,0.137,cali rap
+Very Few Friends,Saint Levant,25,0.162,0.777,0.469,0.00239,6,-8.344,0,0.163,136.05,4,0.557,palestinian hip hop
+Sick of You,Suriel Hess,63,0.781,0.571,0.384,0.0,7,-8.946,1,0.034,95.938,4,0.375,singer-songwriter pop
+Marry Me,Train,70,0.834,0.461,0.267,2.03e-05,0,-8.514,1,0.0278,87.918,4,0.481,dance pop
+Sunday Drive,Brett Eldredge,51,0.928,0.327,0.214,0.0,3,-10.382,1,0.0355,73.863,4,0.351,contemporary country
+Ophelia,The Lumineers,0,0.63,0.664,0.576,0.000198,5,-6.429,1,0.0286,76.026,4,0.621,folk-pop
+Strangers In The Night,Frank Sinatra,47,0.709,0.272,0.482,0.0,0,-7.948,1,0.0275,90.602,4,0.565,adult standards
+Evermore,Hollow Coves,0,0.592,0.409,0.482,0.00448,8,-9.917,1,0.0269,78.987,4,0.335,indie folk
+Ho Hey,The Lumineers,0,0.761,0.683,0.472,1.59e-06,0,-9.08,1,0.0317,79.931,4,0.359,folk-pop
+Afterglow,Ed Sheeran,74,0.698,0.641,0.324,0.0,11,-5.851,1,0.0299,110.184,4,0.273,pop
+The Way That I Love You (Single Version),Passenger,0,0.719,0.508,0.323,1.78e-05,1,-13.237,1,0.0347,120.752,4,0.486,folk-pop
+Love Like This,Ben Rector,0,0.903,0.637,0.129,0.0,2,-11.89,1,0.0405,139.742,4,0.368,acoustic pop
+Origin Of Love,MIKA,43,0.0519,0.647,0.636,0.000153,0,-5.756,1,0.035,128.001,4,0.469,pop rock
+Empire State Of Mind,JAY-Z,53,0.0265,0.503,0.955,0.0,11,-1.533,1,0.381,173.521,4,0.818,east coast hip hop
+Good Life,OneRepublic,76,0.0771,0.634,0.69,0.0,6,-7.804,1,0.052,94.988,4,0.645,piano rock
+You Make Me Feel... (feat. Sabi),Cobra Starship,72,0.0191,0.668,0.857,6.71e-06,7,-2.944,0,0.0535,131.959,4,0.748,neon pop punk
+Rocketeer,Far East Movement,70,0.181,0.664,0.845,0.0,4,-6.115,0,0.0461,96.005,4,0.357,asian american hip hop
+I Like It Like That (feat. New Boyz),Hot Chelle Rae,63,0.0308,0.742,0.784,0.0,1,-5.458,1,0.0552,101.002,4,0.65,dance rock
+Goosebumps,HVME,75,0.325,0.767,0.659,0.0,1,-7.429,1,0.0444,124.946,4,0.439,slap house
+Ridin' Solo,Jason Derulo,67,0.128,0.442,0.83,0.0,9,-4.02,1,0.146,89.338,4,0.578,dance pop
+Neighbors,J. Cole,76,0.319,0.898,0.283,0.000383,6,-12.335,0,0.356,138.97,4,0.469,conscious hip hop
+The London (feat. J. Cole & Travis Scott),Young Thug,70,0.0249,0.784,0.517,1.44e-06,4,-8.981,0,0.209,97.991,4,0.206,atl hip hop
+Feel So Close - Radio Edit,Calvin Harris,84,0.000972,0.707,0.924,0.00703,7,-2.842,1,0.031,127.937,4,0.919,dance pop
+Fire Burning,Sean Kingston,74,0.0192,0.839,0.804,0.0,1,-2.513,1,0.0329,122.973,4,0.888,dance pop
+Often,The Weeknd,83,0.222,0.572,0.631,0.0,7,-9.836,0,0.0476,134.078,4,0.0713,canadian contemporary r&b
+Same Bitches (feat. G-Eazy & YG),Post Malone,66,0.434,0.731,0.774,3.34e-06,10,-5.273,0,0.0555,100.005,4,0.219,dfw rap
+rockstar,Post Malone,1,0.128,0.58,0.531,0.000127,5,-6.631,0,0.0776,159.786,4,0.141,dfw rap
+GOSHA,$NOT,74,0.81,0.847,0.448,1.35e-05,0,-10.14,1,0.416,79.975,4,0.488,aesthetic rap
+PICK IT UP (feat. A$AP Rocky),Famous Dex,66,0.0149,0.921,0.467,0.000238,1,-8.443,1,0.119,135.995,4,0.287,chicago rap
+Kiss Me Thru The Phone,Soulja Boy,80,0.0185,0.758,0.712,0.0,7,-3.781,1,0.112,149.998,4,0.795,atl hip hop
+Tonight Tonight,Hot Chelle Rae,73,0.0764,0.686,0.783,0.0,4,-4.977,1,0.119,99.978,4,0.814,dance rock
+The Show Goes On,Lupe Fiasco,73,0.0189,0.591,0.889,0.0,7,-3.839,1,0.115,143.067,4,0.65,chicago rap
+Down,Jay Sean,1,0.0108,0.657,0.695,0.0,2,-4.493,1,0.0321,65.997,4,0.683,dance pop
+Way Out (feat. Big Sean),Jack Harlow,67,0.114,0.945,0.582,0.0,11,-8.357,0,0.0719,108.025,4,0.907,deep underground hip hop
+Blinding Lights,The Weeknd,93,0.00146,0.514,0.73,9.54e-05,1,-5.934,1,0.0598,171.005,4,0.334,canadian contemporary r&b
+Lemonade,Internet Money,75,0.256,0.799,0.66,0.0,1,-6.153,0,0.079,140.04,4,0.471,pop rap
+Everybody Talks,Neon Trees,82,0.00301,0.471,0.924,0.0,8,-3.906,1,0.0586,154.961,4,0.725,modern rock
+Without You (feat. Usher),David Guetta,67,0.227,0.608,0.614,3.82e-06,2,-3.727,1,0.0285,127.885,4,0.402,big room
+Good Feeling,Flo Rida,80,0.0588,0.706,0.89,0.00286,1,-4.444,0,0.0688,128.011,4,0.684,dance pop
+Like A G6,Far East Movement,72,0.00676,0.435,0.837,0.0,3,-8.126,1,0.449,124.913,4,0.778,asian american hip hop
+Welcome To New York,Taylor Swift,69,0.038,0.793,0.634,1.76e-06,7,-4.807,1,0.0324,117.024,4,0.615,pop
+Time of Our Lives,Pitbull,84,0.0921,0.721,0.802,0.0,1,-5.797,1,0.0583,124.022,4,0.724,dance pop
+High For Hours,J. Cole,59,0.449,0.87,0.446,0.0,1,-9.818,1,0.424,95.518,4,0.684,conscious hip hop
+MONTERO (Call Me By Your Name),Lil Nas X,23,0.297,0.61,0.508,0.0,8,-6.682,0,0.152,178.818,4,0.758,lgbtq+ hip hop
+HOLIDAY,Lil Nas X,74,0.12,0.81,0.511,0.0,5,-6.924,0,0.164,151.947,4,0.837,lgbtq+ hip hop
+Wet Dreamz,J. Cole,3,0.0751,0.517,0.705,0.0,6,-8.205,0,0.364,175.906,4,0.584,conscious hip hop
+Panini,Lil Nas X,73,0.342,0.703,0.594,0.0,5,-6.146,0,0.0752,153.848,4,0.475,lgbtq+ hip hop
+Only Ones To Know (feat. Leona Lewis),Pitbull,30,0.149,0.739,0.913,1.9e-06,8,-4.149,0,0.0414,127.964,4,0.535,dance pop
+Marlboro Nights,Lonely God,77,0.00237,0.466,0.823,0.000321,2,-6.635,1,0.311,175.797,4,0.782,modern indie pop
+ATM,J. Cole,64,0.115,0.772,0.498,0.0,8,-7.661,1,0.649,81.817,4,0.351,conscious hip hop
+Avian,Mac Miller,17,0.267,0.548,0.689,0.0,7,-7.287,1,0.131,75.11,4,0.259,hip hop
+Complicated,Mac Miller,64,0.136,0.831,0.36,0.00217,0,-8.073,1,0.052,75.014,4,0.601,hip hop
+Suplexes Inside of Complexes and Duplexes,Mac Miller,10,0.82,0.405,0.754,0.000131,7,-6.687,0,0.498,80.06,4,0.474,hip hop
+Smile Back,Mac Miller,20,0.000283,0.53,0.834,0.0,2,-6.547,1,0.156,151.349,4,0.235,hip hop
+Missed Calls,Mac Miller,30,0.643,0.558,0.535,0.0,5,-10.37,1,0.163,169.859,4,0.464,hip hop
+Wings,Mac Miller,67,0.818,0.656,0.33,0.00386,8,-8.771,1,0.162,119.057,4,0.349,hip hop
+ROS,Mac Miller,69,0.601,0.535,0.448,0.0,1,-8.919,0,0.175,120.554,4,0.284,hip hop
+Ladders,Mac Miller,73,0.236,0.802,0.463,0.00531,8,-8.379,1,0.162,103.961,4,0.291,hip hop
+Circles,Mac Miller,71,0.896,0.61,0.0316,0.00461,9,-15.186,1,0.0486,151.964,4,0.37,hip hop
+Rush Hour,Mac Miller,64,0.262,0.602,0.472,0.0,6,-5.375,0,0.265,163.817,4,0.304,hip hop
+Floating,Mac Miller,55,0.669,0.505,0.391,0.052,3,-11.599,1,0.0416,135.12,4,0.36,hip hop
+"American Dream (feat. J. Cole, Kendrick Lamar)",Jeezy,56,0.058,0.64,0.849,0.0,2,-5.684,1,0.153,76.983,4,0.64,atl hip hop
+The Law (feat. Mac Miller & Rapsody),Ab-Soul,55,0.249,0.744,0.637,0.0,1,-7.297,0,0.301,139.882,4,0.697,conscious hip hop
+Small Worlds,Mac Miller,81,0.814,0.516,0.546,4.5e-06,5,-9.105,1,0.249,78.267,4,0.515,hip hop
+Window Pain - Outro,J. Cole,57,0.0607,0.719,0.626,0.0,8,-9.351,1,0.397,75.032,4,0.179,conscious hip hop
+Jet Fuel,Mac Miller,71,0.54,0.791,0.557,0.0,7,-9.622,0,0.0698,119.973,4,0.284,hip hop
+Love Yourz,J. Cole,0,0.609,0.502,0.623,0.0,8,-8.812,1,0.44,75.578,1,0.399,conscious hip hop
+Apparently,J. Cole,1,0.564,0.8,0.543,0.0,5,-9.236,1,0.0911,133.98,4,0.534,conscious hip hop
+Power Trip (feat. Miguel),J. Cole,0,0.322,0.667,0.61,0.000203,1,-7.054,1,0.217,99.991,4,0.465,conscious hip hop
+Crooked Smile (feat. TLC),J. Cole,0,0.433,0.607,0.784,0.0,7,-6.293,1,0.268,81.004,4,0.482,conscious hip hop
+2009,Mac Miller,70,0.77,0.533,0.496,0.000164,6,-9.363,0,0.517,155.158,4,0.173,hip hop
+t h e . c l i m b . b a c k,J. Cole,60,0.0398,0.61,0.569,0.0,10,-9.447,0,0.345,81.409,4,0.287,conscious hip hop
+Blue World,Mac Miller,76,0.389,0.742,0.553,0.0,8,-8.98,1,0.419,84.931,4,0.508,hip hop
+i n t e r l u d e,J. Cole,0,0.11,0.604,0.668,0.0,1,-3.525,1,0.115,100.854,3,0.114,conscious hip hop
+9 5 . s o u t h,J. Cole,66,0.271,0.713,0.793,0.0,2,-5.277,1,0.397,71.724,4,0.203,conscious hip hop
+a m a r i,J. Cole,76,0.127,0.725,0.713,0.0,4,-6.173,0,0.187,65.988,4,0.207,conscious hip hop
+m y . l i f e (with 21 Savage & Morray),J. Cole,81,0.0622,0.597,0.587,0.0,7,-7.026,0,0.137,140.021,4,0.0753,conscious hip hop
+p u n c h i n ‘ . t h e . c l o c k,J. Cole,64,0.197,0.769,0.74,0.0,11,-6.579,0,0.378,94.104,4,0.692,conscious hip hop
+1 0 0 . m i l ‘ (with Bas),J. Cole,64,0.334,0.711,0.647,0.0,2,-5.667,0,0.0822,125.092,4,0.227,conscious hip hop
+i n t e r l u d e,J. Cole,70,0.0617,0.77,0.574,0.0,1,-5.525,1,0.106,98.962,3,0.104,conscious hip hop
+t h e . c l i m b . b a c k,J. Cole,64,0.0526,0.618,0.632,0.0,11,-6.973,1,0.346,81.446,4,0.319,conscious hip hop
+c l o s e,J. Cole,61,0.32,0.582,0.912,0.0,9,-5.637,1,0.432,87.931,4,0.515,conscious hip hop
+h u n g e r . o n . h i l l s i d e (with Bas),J. Cole,65,0.126,0.563,0.703,0.0,2,-5.756,1,0.0702,94.983,4,0.294,conscious hip hop
+Inside Outside,Mac Miller,61,0.0771,0.689,0.746,0.0,0,-5.971,1,0.0549,113.569,4,0.376,hip hop
+Here We Go,Mac Miller,58,0.0205,0.489,0.867,0.0,6,-4.668,0,0.466,75.1,4,0.55,hip hop
+Friends (feat. ScHoolboy Q),Mac Miller,54,0.149,0.557,0.678,0.0,1,-5.772,1,0.279,148.103,4,0.366,hip hop
+Angel Dust,Mac Miller,60,0.467,0.628,0.822,0.0,5,-5.439,1,0.234,78.029,4,0.41,hip hop
+Malibu,Mac Miller,52,0.145,0.591,0.581,4.9e-05,6,-5.76,0,0.165,78.104,4,0.226,hip hop
+What Do You Do (feat. Sir Michael Rocks),Mac Miller,50,0.847,0.665,0.72,0.0,10,-5.698,1,0.422,87.894,4,0.444,hip hop
+It Just Doesn’t Matter,Mac Miller,51,0.449,0.58,0.689,0.0,8,-6.637,0,0.104,96.878,4,0.778,hip hop
+Therapy,Mac Miller,55,0.0323,0.634,0.661,0.00323,1,-7.008,0,0.0954,140.017,4,0.392,hip hop
+Polo Jeans (feat. Earl Sweatshirt),Mac Miller,56,0.493,0.732,0.635,7.02e-06,1,-7.891,1,0.41,147.025,4,0.581,hip hop
+Happy Birthday,Mac Miller,52,0.00353,0.657,0.667,0.0,11,-5.233,0,0.0589,86.018,4,0.386,hip hop
+Wedding,Mac Miller,53,0.722,0.482,0.646,0.0,1,-6.75,1,0.386,132.551,1,0.35,hip hop
+Funeral,Mac Miller,56,0.655,0.659,0.609,7.69e-06,0,-6.976,1,0.157,74.005,4,0.377,hip hop
+Diablo,Mac Miller,68,0.0395,0.595,0.617,4.06e-06,1,-4.238,1,0.31,159.83,4,0.464,hip hop
+Ave Maria,Mac Miller,52,0.0822,0.426,0.758,0.0,5,-4.674,0,0.25,170.45,4,0.654,hip hop
+55,Mac Miller,48,0.506,0.46,0.546,0.486,0,-7.839,1,0.041,132.173,4,0.237,hip hop
+San Francisco,Mac Miller,50,0.182,0.59,0.59,2.51e-05,0,-7.103,1,0.447,77.914,4,0.19,hip hop
+Colors and Shapes,Mac Miller,52,0.522,0.645,0.458,0.0914,7,-8.888,0,0.0537,142.175,4,0.397,hip hop
+Insomniak (feat. Rick Ross),Mac Miller,53,0.093,0.697,0.663,0.0,1,-5.594,1,0.108,120.08,4,0.314,hip hop
+Uber (feat. Mike Jones),Mac Miller,50,0.391,0.537,0.737,0.000333,5,-5.858,0,0.319,170.177,4,0.617,hip hop
+Rain (feat. Vince Staples),Mac Miller,65,0.528,0.443,0.737,0.0,0,-5.943,1,0.332,177.462,4,0.68,hip hop
+Apparition,Mac Miller,48,0.118,0.678,0.619,0.000383,9,-6.795,1,0.334,75.454,4,0.27,hip hop
+Thumbalina,Mac Miller,52,0.0697,0.542,0.794,2.74e-06,2,-4.723,0,0.395,95.736,4,0.689,hip hop
+New Faces v2 (feat. Earl Sweatshirt and Da$h),Mac Miller,56,0.0536,0.479,0.598,0.0,1,-5.807,0,0.323,110.456,3,0.244,hip hop
+Grand Finale,Mac Miller,51,0.188,0.613,0.717,0.0,2,-5.409,1,0.116,78.05,3,0.325,hip hop
+Yeah - bonus,Mac Miller,62,0.139,0.511,0.793,8.06e-06,8,-5.231,1,0.072,148.082,4,0.146,hip hop
+That's Life (feat. Mac Miller & Sia),88-Keys,65,0.24,0.525,0.774,1.07e-06,9,-4.532,1,0.241,154.192,4,0.526,alternative hip hop
+Love & War in Your Twenties,Jordy Searcy,11,0.22,0.736,0.525,0.00153,2,-9.694,1,0.0296,102.986,4,0.529,indiecoustica
+We Are Young (feat. Janelle Monáe),fun.,76,0.02,0.378,0.638,7.66e-05,10,-5.576,1,0.075,184.086,4,0.735,baroque pop
+Crystals,Of Monsters and Men,63,0.00202,0.581,0.747,0.000449,0,-7.207,1,0.0303,132.195,4,0.325,folk-pop
+Growing Sideways,Noah Kahan,72,0.744,0.665,0.296,0.0,7,-8.64,1,0.0276,89.142,4,0.539,pov: indie
+Midas,The 502s,32,0.563,0.478,0.481,3.68e-05,5,-12.117,1,0.0419,146.171,4,0.323,
+Olivia,The 502s,32,0.0288,0.608,0.89,0.0224,2,-6.198,1,0.0847,150.181,4,0.847,
+Viva La Vida,Coldplay,89,0.0954,0.486,0.617,3.23e-06,5,-7.115,0,0.0287,138.015,4,0.417,permanent wave
+She Will Be Loved,Maroon 5,74,0.0596,0.706,0.713,0.0,0,-5.512,0,0.0301,102.037,4,0.544,pop
+Payphone,Maroon 5,71,0.0136,0.739,0.756,0.0,4,-4.828,1,0.0394,110.028,4,0.523,pop
+"Hey, Soul Sister",Train,85,0.185,0.673,0.886,0.0,1,-4.44,0,0.0431,97.012,4,0.795,dance pop
+Some Nights,fun.,72,0.0178,0.672,0.738,6.75e-05,0,-7.045,1,0.0506,107.938,4,0.392,baroque pop
+Drive By,Train,81,0.00107,0.765,0.837,1.06e-05,1,-3.113,0,0.032,122.028,4,0.721,dance pop
+Titanium (feat. Sia),David Guetta,62,0.0678,0.604,0.788,0.153,0,-3.673,0,0.103,126.06,4,0.301,big room
+Too Much To Ask,Niall Horan,71,0.371,0.443,0.533,0.0,0,-6.548,1,0.0396,77.344,4,0.201,pop
+Thunder,Imagine Dragons,88,0.00671,0.605,0.822,0.134,0,-4.833,1,0.0438,167.997,4,0.288,modern rock
+Apologize,OneRepublic,72,0.363,0.593,0.74,2.22e-05,8,-6.12,1,0.0339,118.008,4,0.502,piano rock
+Billionaire (feat. Bruno Mars),Travie McCoy,75,0.297,0.633,0.673,0.0,6,-6.403,0,0.258,86.776,4,0.659,pop rap
+Falling Like The Stars,James Arthur,68,0.823,0.296,0.351,1.45e-06,6,-9.538,1,0.0352,177.06,3,0.19,pop
+Pumped Up Kicks,Foster The People,86,0.145,0.733,0.71,0.115,5,-5.849,0,0.0292,127.975,4,0.965,indietronica
+Paradise,Bazzi,0,0.0828,0.844,0.644,0.0,11,-6.273,0,0.0479,122.061,4,0.591,pop
+I Don't Belong In This Club,Why Don't We,0,0.0202,0.797,0.543,0.0,11,-5.744,1,0.0439,115.036,4,0.164,boy band
+Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,62,0.214,0.746,0.787,0.0,4,-6.373,1,0.12,95.005,4,0.607,pop
+Secrets,OneRepublic,78,0.0717,0.516,0.764,0.0,2,-6.223,1,0.0366,148.021,4,0.376,piano rock
+Antisocial (with Travis Scott),Ed Sheeran,66,0.132,0.716,0.823,0.0,5,-5.313,0,0.0495,151.957,4,0.91,pop
+I’m Yours,Jason Mraz,34,0.957,0.549,0.107,0.0,0,-16.147,1,0.0844,74.63,4,0.307,acoustic pop
+Lucky,Jason Mraz,76,0.294,0.625,0.414,0.0,0,-8.7,1,0.0369,130.088,4,0.669,acoustic pop
+Still into You,Paramore,84,0.0098,0.602,0.923,0.0,5,-3.763,1,0.044,136.01,4,0.765,candy pop
+Somebody That I Used To Know,Gotye,78,0.591,0.864,0.495,0.000133,0,-7.036,1,0.037,129.062,4,0.72,australian pop
+Story of My Life,One Direction,85,0.225,0.6,0.663,0.0,3,-5.802,1,0.0477,121.07,4,0.286,boy band
+What Makes You Beautiful,One Direction,87,0.009,0.726,0.787,0.0,4,-2.494,1,0.0737,124.99,4,0.888,boy band
+Fireflies,Owl City,81,0.0275,0.512,0.662,0.0,3,-6.797,1,0.0439,180.114,4,0.472,indietronica
+Someone To You,BANNERS,74,0.00568,0.468,0.936,0.0,2,-3.683,1,0.0455,75.05,4,0.663,indie poptimism
+Hang On,NEEDTOBREATHE,53,0.005,0.536,0.862,0.000335,8,-4.12,1,0.0523,127.978,4,0.528,ccm
+Cooks,Still Woozy,68,0.434,0.45,0.583,0.0126,4,-10.49,0,0.0811,77.066,4,0.701,bedroom pop
+Window,Still Woozy,61,0.436,0.714,0.483,2.3e-05,4,-9.378,0,0.195,91.025,4,0.67,bedroom pop
+History,One Direction,76,0.0352,0.655,0.699,0.0,11,-4.421,1,0.0493,86.704,4,0.802,boy band
+It's Not Living (If It's Not With You),The 1975,77,0.000254,0.618,0.837,0.000378,1,-5.338,1,0.0304,121.227,4,0.526,modern alternative rock
+I Lived,OneRepublic,66,0.0746,0.599,0.854,0.0,9,-5.429,1,0.0436,119.986,4,0.311,piano rock
+Dear Fear,The Monroe Doctors,0,0.586,0.494,0.806,0.0207,7,-5.638,1,0.0375,159.924,4,0.616,south carolina indie
+Foreigner's God,Hozier,46,0.163,0.503,0.445,0.000475,8,-7.624,1,0.0292,88.866,4,0.382,irish singer-songwriter
+Your Soul,Forrest.,61,0.0244,0.846,0.851,0.0,9,-3.821,1,0.372,139.966,4,0.822,lo-fi rap
+Cigarettes On Patios,BabyJake,67,0.256,0.752,0.712,0.0,4,-5.467,0,0.0474,139.999,4,0.588,singer-songwriter pop
+Guilty Pleasure,Bryce Vine,55,0.00359,0.651,0.835,0.0,6,-5.768,1,0.0464,150.058,4,0.87,indie pop rap
+All Night Longer,Sammy Adams,62,0.000652,0.712,0.649,0.0,1,-4.753,1,0.063,127.028,4,0.616,indie pop rap
+Empty Bottles (feat. MOD SUN),Bryce Vine,46,0.0213,0.58,0.771,5.62e-05,11,-5.096,1,0.0506,163.987,4,0.35,indie pop rap
+Mr. Brightside,The Killers,0,0.00104,0.344,0.931,0.0,1,-3.759,1,0.0783,148.104,4,0.251,alternative rock
+La La Land,Bryce Vine,62,0.289,0.726,0.512,0.0,11,-4.667,1,0.0361,97.965,4,0.52,indie pop rap
+Runaway Baby,Bruno Mars,75,0.263,0.658,0.762,0.0,10,-3.028,0,0.0425,163.864,4,0.823,dance pop
+Come Around,Hoodie Allen,0,0.387,0.725,0.752,0.0,9,-4.919,1,0.108,77.543,4,0.824,indie pop rap
+Kinfolks,Sam Hunt,59,0.0808,0.565,0.805,0.0,0,-4.457,1,0.0489,76.04,4,0.869,contemporary country
+Right Back,Khalid,61,0.0659,0.788,0.427,3.63e-05,5,-9.918,0,0.308,97.03,4,0.603,pop
+Magic In The Hamptons (feat. Lil Yachty),Social House,76,0.66,0.769,0.479,0.0,1,-5.339,1,0.0385,96.051,4,0.803,
+Sour Patch Kids,Bryce Vine,64,0.0144,0.523,0.783,1.71e-05,9,-5.084,1,0.0545,76.588,4,0.581,indie pop rap
+shining on my ex,bbno$,59,0.121,0.645,0.487,0.0,4,-8.584,0,0.352,88.893,4,0.618,canadian hip hop
+Break My Stride,Matthew Wilder,76,0.195,0.917,0.588,0.0,10,-11.047,1,0.0607,110.077,4,0.828,new wave pop
+Leave The Night On,Sam Hunt,67,0.0951,0.514,0.951,0.0,9,-3.813,1,0.0603,171.96,4,0.838,contemporary country
+Somewhere In My Car,Keith Urban,54,0.0072,0.6,0.867,6.25e-05,10,-5.394,1,0.0367,118.032,4,0.619,australian country
+"Sunflower, Vol. 6",Harry Styles,75,0.000564,0.566,0.846,0.000795,7,-6.904,0,0.035,160.02,4,0.86,pop
+Everybody Talks,Neon Trees,54,0.00301,0.471,0.924,0.0,8,-3.906,1,0.0586,154.961,4,0.725,modern rock
+3 Nights,Dominic Fike,75,0.223,0.815,0.518,0.0,7,-6.594,0,0.0897,151.891,4,0.877,alternative pop rock
+3:15,Bazzi,66,0.385,0.651,0.654,0.0,1,-5.481,1,0.0466,141.975,4,0.539,pop
+Paradise,Bazzi,75,0.0828,0.844,0.644,0.0,11,-6.273,0,0.0479,122.061,4,0.591,pop
+8TEEN,Khalid,78,0.225,0.83,0.585,0.00209,1,-5.802,1,0.0366,105.03,4,0.642,pop
+Brooklyn In The Summer,Aloe Blacc,56,0.0914,0.656,0.514,0.0,5,-5.27,1,0.0672,120.073,4,0.818,pop soul
+OTW,Khalid,74,0.183,0.652,0.678,3.26e-05,2,-6.183,1,0.0541,72.989,4,0.28,pop
+Talk (feat. Disclosure),Khalid,73,0.0516,0.9,0.4,0.0,0,-8.575,1,0.127,135.984,4,0.346,pop
+Tongue Tied,GROUPLOVE,81,0.00847,0.56,0.936,0.0,3,-5.835,1,0.0439,112.96,4,0.371,indie rock
+Sunday Best,Surfaces,78,0.183,0.878,0.525,0.0,5,-6.832,1,0.0578,112.022,4,0.694,bedroom soul
+Drew Barrymore,Bryce Vine,65,0.46,0.758,0.574,0.00272,11,-6.889,0,0.0572,151.985,4,0.261,indie pop rap
+American Teen,Khalid,68,0.0683,0.658,0.623,0.0,0,-6.934,1,0.0398,100.436,4,0.207,pop
+La La Land (feat. YG),Bryce Vine,65,0.221,0.774,0.473,0.0,1,-5.122,0,0.0569,97.953,4,0.416,indie pop rap
+Out of My League,Fitz and The Tantrums,76,0.0387,0.545,0.968,0.00325,9,-3.553,0,0.0853,169.965,4,0.527,la indie
+Make You Mine,PUBLIC,77,0.0128,0.606,0.799,0.0,9,-4.452,1,0.0261,103.014,4,0.638,indie rockism
+Hundred,Khalid,57,0.0521,0.772,0.483,0.000375,6,-10.06,0,0.0564,120.005,4,0.479,pop
+Summer on You,PRETTYMUCH,59,0.636,0.811,0.447,0.0,4,-6.55,1,0.0414,99.995,4,0.694,boy band
+Young Dumb & Broke,Khalid,83,0.199,0.799,0.539,1.66e-05,1,-6.351,1,0.0421,136.948,4,0.394,pop
+Midsummer Madness,88rising,69,0.359,0.409,0.678,4.76e-06,9,-7.731,1,0.0878,89.968,4,0.168,asian american hip hop
+Outta My Head (with John Mayer),Khalid,69,0.0174,0.729,0.545,0.000274,0,-7.818,1,0.0316,103.012,4,0.514,pop
+Good Things Fall Apart (with Jon Bellion),ILLENIUM,67,0.012,0.643,0.603,0.0,2,-5.416,1,0.0311,144.01,4,0.42,edm
+Good Life,Keiynan,26,0.348,0.681,0.628,0.0,2,-3.969,1,0.0738,175.076,4,0.45,
+bright side of the moon,Christian French,46,0.0223,0.648,0.792,0.0,11,-5.881,0,0.0597,147.88,4,0.629,alt z
+Take Me Home,Bryce Vine,46,0.0516,0.611,0.893,0.0,5,-4.285,1,0.0804,88.533,4,0.729,indie pop rap
+superstars,Christian French,57,0.0589,0.312,0.614,0.0,8,-6.073,1,0.0466,205.379,4,0.356,alt z
+Suncity (feat. Empress Of),Khalid,61,0.0998,0.694,0.63,0.000635,7,-6.84,0,0.162,90.045,4,0.341,pop
+Twenty One,Khalid,56,0.212,0.776,0.445,0.00409,9,-8.574,1,0.0371,109.981,4,0.405,pop
+Up All Night,Khalid,64,0.00103,0.665,0.712,0.00333,1,-7.536,1,0.0527,93.992,4,0.669,pop
+Eleven,Khalid,63,0.112,0.701,0.396,0.0209,4,-10.182,0,0.119,129.004,4,0.115,pop
+Let's Do It Again,J Boog,66,0.578,0.631,0.696,0.0,0,-5.631,0,0.211,173.537,4,0.927,kaneka
+UCLA,RL Grime,68,0.0742,0.536,0.879,0.0,1,-3.019,1,0.0621,140.137,4,0.334,brostep
+One Thing,One Direction,76,0.00233,0.713,0.718,0.0,2,-3.806,1,0.0278,126.999,4,0.656,boy band
+Good Time,Ocean Park Standoff,56,0.0106,0.708,0.62,6.08e-06,8,-5.903,1,0.125,145.073,4,0.912,la pop
+Oak Trees,Daniel Nunnelee,2,0.203,0.617,0.14,0.0,2,-18.492,1,0.0307,99.837,4,0.159,nashville singer-songwriter
+Good Day Sunshine - Remastered 2009,The Beatles,65,0.719,0.77,0.496,0.0,11,-8.45,1,0.0468,117.331,3,0.571,beatlesque
+Magnolia,Brett Eldredge,38,0.0335,0.595,0.715,0.0,2,-6.124,1,0.0337,83.015,4,0.677,contemporary country
+Bones (feat. OneRepublic),Galantis,61,0.00463,0.658,0.804,0.0,0,-5.735,1,0.0377,120.047,4,0.508,dance pop
+Drown (feat. Clinton Kane),Martin Garrix,68,0.212,0.573,0.739,0.0,9,-5.455,1,0.0581,120.077,4,0.363,dutch edm
+Beautiful,Kygo,54,0.0349,0.614,0.709,0.0,11,-5.742,0,0.0428,123.843,4,0.269,edm
+Bibia Be Ye Ye,Ed Sheeran,63,0.52,0.738,0.677,0.0,7,-5.121,1,0.0824,127.067,4,0.882,pop
+I'm Good,The Mowgli's,61,0.0115,0.612,0.921,0.0,0,-5.338,1,0.0705,96.042,4,0.674,indie poptimism
+People Need A Melody,The Head And The Heart,56,0.192,0.586,0.54,0.0,0,-5.761,1,0.0255,82.156,4,0.162,folk-pop
+Alive,NEEDTOBREATHE,0,0.00278,0.603,0.867,2.4e-05,2,-5.092,1,0.0475,127.991,4,0.611,ccm
+long story short,Taylor Swift,69,0.66,0.546,0.73,0.179,0,-7.704,1,0.0417,157.895,4,0.573,pop
+love ride,Christian French,58,0.206,0.55,0.58,1.02e-06,4,-7.687,0,0.0784,82.27,4,0.484,alt z
+Missing Piece,Vance Joy,69,0.0155,0.628,0.877,5.97e-06,0,-4.205,1,0.046,101.992,4,0.721,folk-pop
+AOK,Tai Verdes,65,0.125,0.731,0.626,0.0,11,-6.919,1,0.0805,82.488,4,0.862,modern indie pop
+baseball,Hippo Campus,60,0.0034,0.602,0.915,0.0,9,-3.62,1,0.0541,111.512,4,0.581,minneapolis indie
+Under The Sun - Acoustic,Rhys Lewis,49,0.896,0.907,0.333,0.0,4,-11.178,1,0.079,105.896,4,0.615,uk pop
+Just A Little While,The 502s,63,0.0897,0.636,0.788,0.0,5,-9.177,0,0.0432,125.0,4,0.701,
+No Way!,Bazzi,56,0.174,0.665,0.709,0.0,1,-4.117,0,0.0407,76.058,4,0.357,pop
+It's Plenty,Burna Boy,75,0.36,0.776,0.565,8.81e-05,7,-10.609,1,0.105,107.035,4,0.53,afrobeats
+Paris,Taylor Swift,75,0.112,0.7,0.509,3.27e-05,7,-10.547,1,0.0789,110.947,4,0.345,pop
+Joy,Bastille,62,0.197,0.555,0.923,0.0,6,-4.748,0,0.161,118.007,4,0.363,metropopolis
+Colour In The Ordinary,Tors,35,0.548,0.403,0.472,0.0,10,-6.655,1,0.0337,84.206,4,0.239,
+Neighborhood,American Authors,47,0.15,0.531,0.578,0.0,6,-7.473,0,0.0406,81.989,4,0.348,modern rock
+Alright,Darius Rucker,73,0.0527,0.601,0.806,0.0,7,-4.579,1,0.0345,89.87,4,0.711,black americana
+The Hard Way,PNAU,73,0.072,0.691,0.906,0.0,0,-4.458,1,0.171,119.978,4,0.657,alternative dance
+Finesse - Remix; feat. Cardi B,Bruno Mars,77,0.0185,0.704,0.859,0.0,5,-4.877,0,0.0996,105.115,4,0.926,dance pop
+Somebody To You,The Vamps,77,0.0587,0.526,0.818,0.0,3,-5.952,1,0.0358,171.96,4,0.896,boy band
+Sunkissed,khai dreams,2,0.595,0.766,0.354,0.0,6,-9.486,1,0.0543,153.902,4,0.792,lo-fi rap
+Dog Days Are Over,Florence + The Machine,79,0.0416,0.492,0.81,0.00379,7,-5.315,1,0.0847,149.954,4,0.245,baroque pop
+Crash My Car,COIN,0,0.00178,0.244,0.645,0.00574,5,-5.863,1,0.0456,183.577,5,0.529,pov: indie
+Paper Planes,M.I.A.,0,0.033,0.447,0.848,7.45e-05,2,-6.175,1,0.222,172.247,4,0.485,escape room
+Budapest,George Ezra,2,0.0846,0.717,0.455,0.0,5,-8.303,1,0.0276,127.812,4,0.389,folk-pop
+Good Time,Owl City,80,0.0239,0.56,0.872,6.98e-06,3,-4.269,1,0.14,126.05,4,0.682,indietronica
+Die Young,Kesha,81,0.00498,0.711,0.7,0.000125,1,-4.805,0,0.046,128.001,4,0.801,dance pop
+MAMACITA,Black Eyed Peas,52,0.19,0.88,0.626,0.000755,2,-7.062,1,0.0473,105.01,4,0.441,dance pop
+Say Love,James TW,0,0.119,0.753,0.457,1.15e-06,1,-7.533,1,0.0541,84.038,4,0.549,british singer-songwriter
+Electric Love,BØRNS,83,0.00543,0.611,0.797,0.00137,6,-7.627,0,0.0533,120.041,4,0.518,indie poptimism
+Crush Culture,Conan Gray,67,0.146,0.522,0.765,0.0,0,-5.395,1,0.193,180.065,4,0.455,bedroom pop
+Love You Like A Love Song,Selena Gomez & The Scene,83,0.0761,0.858,0.678,0.0,1,-3.87,0,0.0469,117.009,4,0.922,pop
+Bad Romance,Lady Gaga,84,0.00314,0.696,0.921,5.24e-05,0,-3.755,1,0.0363,119.001,4,0.714,art pop
+Best Song Ever,One Direction,80,0.0227,0.652,0.877,0.0,1,-2.986,1,0.0465,118.491,4,0.486,boy band
+Bad Girls,M.I.A.,76,0.00107,0.639,0.912,0.0,1,-2.621,1,0.0615,143.448,4,0.343,escape room
+So What,P!nk,80,0.000334,0.534,0.87,0.0,11,-3.078,0,0.0425,126.019,4,0.462,dance pop
+Last First Kiss,One Direction,0,0.0563,0.531,0.811,0.0,4,-2.556,1,0.0426,82.14,4,0.484,boy band
+Dancing Queen,ABBA,1,0.382,0.539,0.884,0.00166,9,-6.53,1,0.0403,100.812,4,0.752,europop
+Want U Back,Cher Lloyd,66,0.0562,0.694,0.891,0.0,9,-2.94,1,0.0949,97.939,4,0.563,dance pop
+Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Martin Garrix,77,0.179,0.661,0.723,1.23e-05,5,-6.976,0,0.0566,113.778,4,0.316,dutch edm
+Sunday Best,Surfaces,0,0.192,0.879,0.536,0.0,5,-6.843,1,0.0602,112.02,4,0.654,bedroom soul
+Walk Me Home,P!nk,67,0.0507,0.652,0.453,0.0,1,-6.119,1,0.0445,88.039,3,0.432,dance pop
+BOOMBAYAH - Japanese Version,BLACKPINK,41,0.0279,0.751,0.867,3.4e-06,5,-2.337,0,0.0541,124.973,4,0.521,k-pop
+I Gotta Feeling,Black Eyed Peas,4,0.0873,0.743,0.766,0.0,0,-6.375,1,0.0265,127.96,4,0.61,dance pop
+Let's Fall in Love for the Night,FINNEAS,4,0.802,0.737,0.408,0.0,5,-7.941,1,0.104,127.921,4,0.374,alt z
+Honesty,Pink Sweat$,0,0.964,0.66,0.139,8.02e-06,6,-16.339,0,0.0322,79.976,4,0.306,bedroom soul
+I Don't Belong In This Club,Why Don't We,57,0.0202,0.797,0.543,0.0,11,-5.744,1,0.0439,115.036,4,0.164,boy band
+Like Someone In Love,Bruno Major,2,0.649,0.597,0.462,7.28e-06,10,-7.816,1,0.0597,71.578,4,0.377,singer-songwriter pop
+Younger,Ruel,61,0.202,0.745,0.477,0.0,11,-7.706,0,0.088,136.055,4,0.454,alt z
+Streetcar,Daniel Caesar,70,0.721,0.41,0.298,0.0,3,-11.796,1,0.0473,109.651,3,0.142,canadian contemporary r&b
+I Like U,NIKI,70,0.071,0.48,0.526,0.0,5,-7.099,1,0.275,199.662,3,0.374,indonesian r&b
+Crazy,Gnarls Barkley,80,0.0505,0.855,0.587,0.00714,8,-4.589,1,0.0336,111.97,4,0.64,atl hip hop
+She Will Be Loved - Radio Mix,Maroon 5,82,0.228,0.651,0.663,0.0,0,-5.569,0,0.0281,102.0,4,0.465,pop
+Hold Me While You Wait,Lewis Capaldi,67,0.443,0.688,0.53,0.0,11,-5.507,1,0.0333,106.958,4,0.162,pop
+Easily,Bruno Major,3,0.491,0.772,0.256,0.00612,7,-8.545,0,0.0481,118.902,3,0.357,singer-songwriter pop
+Saturday Sun,Vance Joy,75,0.484,0.637,0.864,0.0,8,-4.381,1,0.0468,99.995,4,0.706,folk-pop
+Good Thing (with Kehlani),Zedd,68,0.399,0.693,0.564,0.0,1,-3.857,0,0.0378,185.913,3,0.574,complextro
+(Girl We Got A) Good Thing,Weezer,39,0.00416,0.554,0.707,0.0,3,-7.308,1,0.0368,128.079,4,0.38,alternative rock
+Sunflower,Rex Orange County,15,0.646,0.384,0.765,0.00352,6,-4.463,1,0.0579,129.903,4,0.567,bedroom pop
+Sue Me,Sabrina Carpenter,69,0.0422,0.46,0.809,5.04e-05,6,-5.415,1,0.326,157.184,4,0.609,pop
+Best Friend,Rex Orange County,7,0.395,0.575,0.714,0.0,6,-5.247,1,0.0596,144.982,4,0.32,bedroom pop
+Loving Is Easy (feat. Benny Sings),Rex Orange County,5,0.217,0.756,0.609,0.00482,3,-7.927,1,0.0544,117.024,4,0.537,bedroom pop
+Can I Call You Tonight?,Dayglow,32,0.132,0.641,0.842,0.91,9,-7.27,1,0.0292,129.98,4,0.5,austindie
+Dazed & Confused,Ruel,66,0.102,0.688,0.5,0.0,2,-7.411,1,0.138,127.906,3,0.418,alt z
+hot girl bummer,blackbear,28,0.128,0.778,0.559,0.0,6,-7.109,0,0.0776,129.989,1,0.678,pop
+No One Compares To You,Jack & Jack,64,0.127,0.7,0.748,0.0,1,-6.044,1,0.0434,111.939,4,0.631,pop
+Painkiller,Ruel,70,0.0875,0.683,0.42,0.0,5,-6.51,1,0.0542,128.621,4,0.469,alt z
+Sober,Childish Gambino,0,0.101,0.701,0.592,2.53e-05,0,-6.646,1,0.0301,98.067,4,0.421,atl hip hop
+Learn To Fly,Surfaces,58,0.554,0.569,0.536,0.0,1,-6.137,1,0.0819,173.695,4,0.656,bedroom soul
+La Di Da,Lennon Stella,59,0.195,0.689,0.679,0.00111,7,-5.893,1,0.0517,149.972,4,0.475,alt z
+Roses (with Juice WRLD feat. Brendon Urie),benny blanco,64,0.166,0.613,0.6,0.0,8,-7.097,1,0.154,147.059,4,0.532,pop
+Losin Control,Russ,55,0.515,0.759,0.245,0.000154,6,-6.545,1,0.138,96.992,4,0.209,hawaiian hip hop
+Kokomo,The Beach Boys,0,0.0107,0.684,0.643,0.0,0,-10.252,1,0.0329,115.571,4,0.922,baroque pop
+Just the Way You Are,Bruno Mars,86,0.0134,0.635,0.841,0.0,5,-5.379,1,0.0422,109.021,4,0.424,dance pop
+Mariposa,Peach Tree Rascals,72,0.617,0.676,0.525,0.0,9,-5.88,1,0.028,112.011,4,0.421,pov: indie
+Best Day Of My Life,American Authors,82,0.0591,0.673,0.902,0.000262,2,-2.392,1,0.0346,100.012,4,0.538,modern rock
+Need You Now,Lady A,74,0.0927,0.587,0.622,0.000636,4,-5.535,1,0.0303,107.943,4,0.231,contemporary country
+Life Of The Party,Shawn Mendes,63,0.0663,0.666,0.615,0.0,10,-4.995,1,0.0314,113.978,4,0.161,canadian pop
+On Chill (feat. Jeremih),Wale,64,0.134,0.597,0.733,0.0,1,-6.017,1,0.41,171.016,4,0.639,pop rap
+Pure Water (with Migos),Mustard,77,0.174,0.682,0.559,0.0,0,-5.545,1,0.127,202.015,4,0.137,cali rap
+Speechless,Dan + Shay,74,0.356,0.616,0.438,0.0,1,-5.968,1,0.0298,135.929,4,0.386,contemporary country
+Waste,Foster The People,60,0.0633,0.681,0.736,7.96e-06,8,-6.269,1,0.0288,125.976,4,0.849,indietronica
+Fake It,Bastille,47,0.212,0.594,0.75,2.33e-06,0,-4.674,0,0.0431,144.993,4,0.246,metropopolis
+Good Grief,Bastille,66,0.147,0.73,0.758,0.0,1,-4.888,1,0.0653,120.041,4,0.877,metropopolis
+Always Yours,BANNERS,32,0.42,0.543,0.639,0.0,2,-6.363,1,0.049,144.876,4,0.53,indie poptimism
+Falling Over You,Johnny Knox,0,0.112,0.671,0.672,0.0,11,-6.374,1,0.0324,119.949,4,0.825,
+Simple Things,30,51,0.24,0.447,0.763,0.0,9,-5.062,0,0.552,179.883,4,0.571,
+Strings Attached,30,8,0.528,0.61,0.668,0.000118,2,-6.634,1,0.0821,129.9,4,0.31,
+Cheers to My Teenage Years,Chase Cimala,30,0.0902,0.728,0.394,0.0,6,-9.797,1,0.126,91.992,4,0.262,
+John Wayne,Cigarettes After Sex,68,0.35,0.429,0.457,0.859,3,-8.375,1,0.0294,124.033,4,0.183,ambient pop
+Learnalilgivinanlovin,Gotye,31,0.205,0.726,0.797,6.33e-05,5,-4.404,1,0.043,128.991,4,0.701,australian pop
+Falling,Trevor Daniel,4,0.123,0.785,0.431,0.0,10,-8.756,0,0.0364,127.085,4,0.236,melodic rap
+wish you were gay,Billie Eilish,77,0.39,0.853,0.351,9.38e-06,7,-10.198,1,0.241,118.028,4,0.282,art pop
+Cold in LA,Why Don't We,50,0.133,0.676,0.624,3.35e-06,8,-5.731,1,0.065,109.986,4,0.726,boy band
+if this is the last time,LANY,0,0.0175,0.565,0.586,0.0,11,-7.726,1,0.0363,147.986,4,0.43,la pop
+Just Friends,Virginia To Vegas,61,0.156,0.793,0.714,0.0,7,-7.562,1,0.193,100.036,4,0.794,canadian pop
+Fallingforyou,The 1975,61,0.892,0.264,0.285,0.000471,1,-15.208,1,0.0385,84.825,4,0.0776,modern alternative rock
+Count on Me,Bruno Mars,77,0.851,0.589,0.389,0.0,0,-5.972,1,0.028,89.1,4,0.501,dance pop
+I Know You Want Me (Calle Ocho),Pitbull,74,0.0152,0.817,0.733,4.31e-05,2,-6.009,1,0.145,127.056,4,0.833,dance pop
+Ain't It Fun,Paramore,76,0.154,0.61,0.893,4.41e-05,9,-3.681,1,0.0921,104.031,4,0.673,candy pop
+Love The Way You Lie,Eminem,85,0.241,0.749,0.925,0.0,10,-5.034,1,0.227,86.989,4,0.641,detroit hip hop
+Maniac,Conan Gray,22,0.00122,0.623,0.647,0.0,8,-5.438,1,0.04,107.987,4,0.522,bedroom pop
+Are You Bored Yet? (feat. Clairo),Wallows,80,0.156,0.682,0.683,2.32e-05,8,-6.444,0,0.0287,120.023,4,0.64,pov: indie
+Mr. Blue Sky,Electric Light Orchestra,83,0.652,0.388,0.338,3.73e-06,10,-10.054,1,0.0329,177.765,4,0.478,album rock
+Talk Too Much,COIN,73,0.00947,0.598,0.888,0.0,4,-5.119,1,0.0807,103.966,4,0.482,pov: indie
+Black And White,Niall Horan,69,0.0301,0.443,0.582,0.0,2,-6.02,1,0.0482,147.589,4,0.239,pop
+wave,gianni & kyle,44,0.262,0.744,0.43,0.0,7,-9.835,1,0.162,89.993,4,0.286,indie pop rap
+Alive,Khalid,53,0.832,0.386,0.406,0.0597,11,-10.419,1,0.0425,78.616,4,0.205,pop
+talk is overrated,Jeremy Zucker,63,0.435,0.776,0.353,0.0,4,-8.317,0,0.0687,138.035,4,0.658,alt z
+blind,ROLE MODEL,0,0.154,0.765,0.663,0.00024,0,-5.221,1,0.0661,150.099,4,0.678,alt z
+supercuts,Jeremy Zucker,61,0.0789,0.807,0.539,0.0,11,-8.193,1,0.124,127.992,4,0.755,alt z
+All Night,The Vamps,73,0.0041,0.538,0.804,0.0,8,-5.194,1,0.0358,144.992,4,0.507,boy band
+Intro,Khalid,52,0.308,0.213,0.414,0.0257,0,-9.725,1,0.0339,79.556,4,0.0553,pop
+Bad Luck,Khalid,58,0.277,0.432,0.52,0.371,1,-5.515,0,0.0548,164.047,4,0.303,pop
+My Bad,Khalid,59,0.547,0.577,0.578,0.59,0,-9.146,0,0.0907,84.963,4,0.367,pop
+Better,Khalid,60,0.0503,0.692,0.552,0.165,0,-9.543,0,0.0497,98.028,4,0.15,pop
+Don't Pretend,Khalid,59,0.258,0.697,0.551,0.00551,11,-8.833,1,0.0815,89.0,4,0.219,pop
+Paradise,Khalid,55,0.206,0.581,0.452,0.00329,11,-9.558,1,0.15,75.046,4,0.523,pop
+Free Spirit,Khalid,62,0.308,0.627,0.446,0.00077,2,-9.477,0,0.0332,139.994,4,0.11,pop
+Bluffin',Khalid,51,0.354,0.529,0.314,0.000436,0,-10.323,1,0.0461,129.666,3,0.288,pop
+Self,Khalid,52,0.44,0.618,0.693,0.759,1,-7.889,0,0.333,143.98,4,0.439,pop
+Heaven,Khalid,51,0.613,0.42,0.479,0.663,8,-8.881,1,0.0374,116.989,4,0.11,pop
+Saturday Nights,Khalid,60,0.634,0.574,0.37,9.4e-05,10,-10.803,1,0.0841,83.162,4,0.354,pop
+Still,Jeff Bernat,66,0.581,0.485,0.315,0.000349,4,-11.599,1,0.0946,134.714,4,0.425,chill r&b
+Backyard Boy,Claire Rosinkranz,62,0.321,0.817,0.634,0.0,5,-7.246,1,0.162,138.015,4,0.453,alt z
+Glitter,BENEE,67,0.0863,0.801,0.589,0.0,7,-5.157,1,0.0485,116.934,4,0.58,alt z
+HEAVEN BELONGS TO YOU,BROCKHAMPTON,49,0.0208,0.68,0.634,2.02e-06,7,-8.446,1,0.36,155.911,4,0.693,boy band
+Locked out of Heaven,Bruno Mars,90,0.049,0.726,0.698,0.0,5,-4.165,1,0.0431,143.994,4,0.867,dance pop
+Bang!,AJR,2,0.0183,0.74,0.516,0.0,1,-6.233,0,0.0507,139.918,4,0.698,pov: indie
+Drumdown Mambo (feat. Jasiah),Whethan,48,0.0931,0.716,0.775,0.0,1,-1.584,1,0.121,91.077,4,0.322,electropop
+Heaven Falls / Fall on Me,Surfaces,65,0.36,0.563,0.366,0.00243,11,-6.896,0,0.121,85.352,4,0.768,bedroom soul
+Sweet Talk,Saint Motel,70,0.0392,0.67,0.843,0.0,1,-4.311,1,0.0454,117.01,4,0.713,la indie
+Riptide,Vance Joy,83,0.431,0.484,0.731,0.0,1,-6.694,1,0.0379,101.654,4,0.51,folk-pop
+I Was Here,Beyoncé,59,0.431,0.525,0.627,0.0,7,-6.59,1,0.0335,111.026,3,0.235,pop
+Liquor Store Blues (feat. Damian Marley),Bruno Mars,64,0.113,0.691,0.828,0.0,1,-3.909,0,0.0749,75.519,4,0.678,dance pop
+Sorry,Beyoncé,69,0.00175,0.775,0.598,4.44e-06,2,-7.274,1,0.0535,129.988,4,0.356,pop
+6 Inch (feat. The Weeknd),Beyoncé,65,0.0433,0.516,0.637,3.89e-06,6,-8.832,1,0.0632,138.011,4,0.324,pop
+Young & Gettin' It (feat. Kirko Bangz),Meek Mill,43,0.244,0.624,0.752,0.0,4,-5.43,1,0.121,134.021,4,0.858,hip hop
+two queens in a king sized bed,girl in red,0,0.911,0.361,0.218,0.000577,9,-14.989,1,0.0338,114.476,4,0.167,bedroom pop
+Spirits,The Strumbellas,0,0.181,0.553,0.729,0.0,0,-3.696,1,0.0266,80.503,4,0.776,canadian indie
+Quarter Past Midnight,Bastille,57,0.275,0.504,0.821,0.0,8,-3.356,1,0.0598,155.131,4,0.458,metropopolis
+Someone To You,BANNERS,36,0.00568,0.468,0.936,0.0,2,-3.683,1,0.0455,75.05,4,0.663,indie poptimism
+Dandelions,Ruth B.,91,0.0157,0.609,0.692,0.0,1,-2.958,1,0.0259,116.959,3,0.454,alt z
+Darlin',tobi lou,56,0.571,0.866,0.388,0.0,9,-11.009,1,0.32,109.976,4,0.556,chicago rap
+3 Nights,Dominic Fike,77,0.223,0.815,0.518,0.0,7,-6.594,0,0.0897,151.891,4,0.877,alternative pop rock
+Why Not Me,Forrest.,58,0.48,0.905,0.721,0.0,7,-6.922,1,0.31,145.958,4,0.695,lo-fi rap
+Jesus in LA,Alec Benjamin,65,0.664,0.787,0.558,0.0,0,-5.237,1,0.0414,94.049,4,0.706,alt z
+Kick It to Me - Single Version,Sammy Rae & The Friends,0,0.679,0.69,0.711,0.0,2,-6.15,1,0.0583,160.085,4,0.939,nyc pop
+Overrated,Souly Had,42,0.192,0.841,0.605,0.0,6,-6.934,0,0.0499,140.939,4,0.801,
+Crush,Souly Had,56,0.341,0.756,0.517,2.68e-05,0,-8.122,1,0.0996,110.064,1,0.267,
+My Kind of Woman,Mac DeMarco,0,0.00294,0.501,0.765,0.49,6,-7.063,0,0.0281,91.769,4,0.46,edmonton indie
+Maybe Tomorrow,Goldlove,0,0.727,0.455,0.293,9.33e-06,0,-13.914,1,0.254,85.952,4,0.294,
+Yours in the Morning,Patrick Droney,40,0.0157,0.446,0.73,1.01e-05,11,-5.243,1,0.0719,148.102,4,0.215,nashville singer-songwriter
+My Girl,The Temptations,0,0.635,0.572,0.418,0.0,0,-10.738,1,0.0349,104.566,4,0.694,memphis soul
+iMi,Bon Iver,0,0.883,0.477,0.394,0.00593,8,-11.571,1,0.0526,134.142,4,0.518,chamber pop
+Blackbird,James Smith,47,0.969,0.377,0.176,0.00819,9,-12.974,1,0.0302,167.855,4,0.176,uk pop
+And the Beat Goes On,The Whispers,56,0.134,0.793,0.643,0.00246,11,-7.345,0,0.106,114.894,4,0.963,classic soul
+If I Build A Home On The Moon,Picture This,45,0.52,0.572,0.328,4.95e-05,9,-8.965,1,0.0314,117.984,4,0.178,irish pop
+Leave The Door Open,Bruno Mars,10,0.182,0.586,0.616,0.0,5,-7.964,1,0.0324,148.088,4,0.719,dance pop
+Cupid's Chokehold / Breakfast in America,Gym Class Heroes,78,0.237,0.72,0.744,0.0,1,-6.938,0,0.12,78.953,4,0.619,dance pop
+Palm Trees,Surfaces,54,0.234,0.785,0.458,0.0,6,-6.162,0,0.049,119.971,4,0.506,bedroom soul
+Way Less Sad - Cash Cash Remix,AJR,38,0.17,0.493,0.756,0.0,11,-3.732,0,0.0631,128.423,4,0.494,pov: indie
+Home - 2019 - Remaster,Edward Sharpe & The Magnetic Zeros,72,0.249,0.53,0.634,0.000622,2,-5.759,1,0.0311,111.615,4,0.106,la indie
+You Belong With Me (Taylor’s Version),Taylor Swift,87,0.0623,0.632,0.773,0.0,6,-4.856,1,0.0346,130.033,4,0.474,pop
+I'm Only Me When I'm With You,Taylor Swift,64,0.00452,0.563,0.934,0.000807,8,-3.629,1,0.0646,143.964,4,0.518,pop
+Animal,Neon Trees,73,0.000346,0.482,0.833,0.0,5,-5.611,1,0.0449,148.039,4,0.74,modern rock
+Backyard Boy,Claire Rosinkranz,71,0.323,0.817,0.635,0.0,5,-7.246,1,0.163,138.015,4,0.454,alt z
+"Relax, Take It Easy",MIKA,47,0.0567,0.698,0.693,0.0161,6,-8.218,0,0.0329,121.859,4,0.608,pop rock
+Mr. Brightside,The Killers,6,0.00101,0.356,0.924,0.0,1,-3.74,1,0.0808,148.017,4,0.232,alternative rock
+Classic,MKTO,84,0.0384,0.72,0.791,0.0,1,-4.689,1,0.124,102.071,4,0.756,pop
+Year 3000,Jonas Brothers,67,0.0045,0.659,0.857,1.93e-06,11,-5.85,1,0.0437,106.965,4,0.798,boy band
+I Don't Wanna Talk (I Just Wanna Dance),Glass Animals,58,0.0156,0.703,0.624,5.53e-05,7,-6.228,1,0.0364,131.966,4,0.808,gauze pop
+Glamorama,Bryce Vine,60,0.256,0.683,0.623,0.0,2,-5.859,0,0.0703,154.058,4,0.495,indie pop rap
+Care At All,Bryce Vine,44,0.408,0.649,0.462,1.64e-05,1,-7.744,0,0.0926,146.005,4,0.257,indie pop rap
+Bella (feat. Emma Zander),Bryce Vine,55,0.286,0.756,0.58,5.31e-06,9,-4.8,0,0.0375,124.127,4,0.402,indie pop rap
+The Fall,Bryce Vine,47,0.0684,0.604,0.549,5.15e-05,1,-5.554,0,0.248,131.544,4,0.444,indie pop rap
+I'm Not Alright,Loud Luxury,58,0.081,0.875,0.858,1.27e-06,4,-3.886,1,0.0496,121.978,4,0.7,edm
+Sunflower Seeds,Bryce Vine,59,0.194,0.723,0.593,5.35e-05,10,-5.816,1,0.0308,92.985,4,0.273,indie pop rap
+Love Me Hate Me,Bryce Vine,11,0.597,0.537,0.536,0.0,7,-4.583,1,0.0536,119.827,5,0.223,indie pop rap
+Miss You a Little (feat. lovelytheband),Bryce Vine,65,0.347,0.636,0.886,0.0,0,-4.76,1,0.0433,140.888,4,0.589,indie pop rap
+Nowhere Man,Bryce Vine,4,0.101,0.636,0.677,1.95e-05,8,-6.698,1,0.0336,122.014,4,0.329,indie pop rap
+Drew Barrymore,Bryce Vine,64,0.46,0.758,0.574,0.00272,11,-6.889,0,0.0572,151.985,4,0.261,indie pop rap
+"Money, Money, Money - From 'Mamma Mia!' Original Motion Picture Soundtrack",Meryl Streep,70,0.246,0.759,0.733,2.11e-06,0,-4.773,1,0.0362,121.977,4,0.481,hollywood
+Elle me dit,MIKA,55,0.0585,0.791,0.772,0.000242,10,-3.715,1,0.0394,125.992,4,0.476,pop rock
+...Ready For It?,Taylor Swift,85,0.0527,0.613,0.764,0.0,2,-6.509,1,0.136,160.015,4,0.417,pop
+Look What You Made Me Do,Taylor Swift,86,0.204,0.766,0.709,1.41e-05,9,-6.471,0,0.123,128.07,4,0.506,pop
+Northern Attitude,Noah Kahan,70,0.131,0.512,0.637,3.63e-05,3,-8.181,1,0.048,121.991,4,0.322,pov: indie
+Stick Season,Noah Kahan,71,0.775,0.666,0.507,0.0,9,-6.867,1,0.065,117.12,4,0.801,pov: indie
+All My Love,Noah Kahan,71,0.327,0.651,0.657,0.0,2,-7.16,1,0.0532,115.964,4,0.475,pov: indie
+She Calls Me Back,Noah Kahan,71,0.0892,0.752,0.686,0.0,11,-6.454,1,0.0378,127.944,4,0.713,pov: indie
+Come Over,Noah Kahan,69,0.536,0.624,0.227,0.0,4,-10.731,1,0.0365,150.004,3,0.438,pov: indie
+New Perspective,Noah Kahan,70,0.278,0.682,0.532,0.0,5,-9.733,1,0.0424,156.532,4,0.479,pov: indie
+"Everywhere, Everything",Noah Kahan,70,0.334,0.452,0.387,0.0,11,-9.169,1,0.0326,179.69,3,0.304,pov: indie
+Orange Juice,Noah Kahan,70,0.502,0.658,0.376,1.16e-05,9,-10.818,1,0.0365,120.038,4,0.228,pov: indie
+Strawberry Wine,Noah Kahan,68,0.922,0.447,0.153,0.000444,0,-17.435,1,0.031,102.99,4,0.258,pov: indie
+Growing Sideways,Noah Kahan,69,0.727,0.658,0.294,0.0,7,-8.643,1,0.0286,89.002,4,0.531,pov: indie
+Halloween,Noah Kahan,67,0.772,0.569,0.173,0.0,3,-13.346,1,0.0642,159.919,3,0.354,pov: indie
+Homesick,Noah Kahan,69,0.0267,0.497,0.645,1.19e-05,6,-6.49,1,0.039,170.039,4,0.411,pov: indie
+Still,Noah Kahan,67,0.792,0.61,0.173,0.0,3,-12.381,1,0.0388,138.918,4,0.177,pov: indie
+The View Between Villages,Noah Kahan,68,0.848,0.268,0.155,0.000176,1,-14.039,1,0.0439,76.643,4,0.0562,pov: indie
+"Your Needs, My Needs",Noah Kahan,74,0.404,0.346,0.149,0.000117,7,-12.156,1,0.0378,155.422,3,0.259,pov: indie
+Dial Drunk,Noah Kahan,85,0.0969,0.693,0.595,0.0,8,-7.578,1,0.0311,112.02,4,0.646,pov: indie
+Paul Revere,Noah Kahan,74,0.572,0.705,0.387,0.0,2,-9.599,1,0.033,107.931,4,0.493,pov: indie
+No Complaints,Noah Kahan,75,0.567,0.683,0.216,0.00105,1,-11.005,1,0.0388,119.951,3,0.311,pov: indie
+Call Your Mom,Noah Kahan,77,0.737,0.479,0.218,3.22e-06,0,-11.997,1,0.0375,172.074,4,0.171,pov: indie
+You’re Gonna Go Far,Noah Kahan,81,0.599,0.59,0.36,0.0,7,-9.643,1,0.0301,169.909,4,0.379,pov: indie
+The View Between Villages - Extended,Noah Kahan,72,0.674,0.317,0.366,0.0016,1,-10.178,1,0.0552,153.096,4,0.113,pov: indie
+Mine (Taylor's Version),Taylor Swift,89,0.00444,0.646,0.783,1.38e-06,7,-2.846,1,0.0356,121.08,4,0.49,pop
+Sparks Fly (Taylor’s Version),Taylor Swift,87,0.0251,0.588,0.758,0.0,5,-2.347,1,0.0305,114.991,4,0.387,pop
+Perfect Places,Lorde,72,0.00241,0.622,0.58,2.95e-05,1,-5.273,0,0.0504,104.41,4,0.512,art pop
+I'm Not The Only One,Sam Smith,50,0.49,0.688,0.474,4.48e-06,5,-5.894,1,0.0344,81.976,4,0.482,pop
+Getaway Car,Taylor Swift,88,0.00465,0.562,0.689,2.23e-06,2,-6.745,1,0.127,172.054,4,0.351,pop
+Wildest Dreams (Taylor's Version),Taylor Swift,87,0.0374,0.583,0.67,0.0001,8,-7.289,1,0.0646,140.061,4,0.498,pop
+We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,82,0.0317,0.567,0.686,1.86e-06,7,-6.139,1,0.175,172.014,4,0.716,pop
+Love Like Ghosts,Lord Huron,61,0.77,0.47,0.548,0.0014,9,-7.227,1,0.0271,137.084,4,0.186,indie folk
+Until the Night Turns,Lord Huron,48,0.402,0.545,0.889,0.298,4,-6.673,1,0.0421,103.494,4,0.527,indie folk
+Dead Man's Hand,Lord Huron,47,0.171,0.591,0.792,0.577,4,-6.977,1,0.0285,118.989,4,0.478,indie folk
+Hurricane (Johnnie's Theme),Lord Huron,49,0.814,0.586,0.805,0.0369,7,-4.988,1,0.0284,144.007,4,0.751,indie folk
+La Belle Fleur Sauvage,Lord Huron,53,0.824,0.529,0.656,0.0942,5,-7.003,1,0.0302,87.495,4,0.211,indie folk
+Fool for Love,Lord Huron,58,0.598,0.618,0.765,0.271,5,-6.268,1,0.0357,91.005,4,0.233,indie folk
+The World Ender,Lord Huron,50,0.604,0.544,0.931,0.423,7,-5.632,0,0.0355,157.03,4,0.755,indie folk
+Meet Me in the Woods,Lord Huron,67,0.392,0.543,0.925,0.456,6,-6.783,0,0.0448,80.499,1,0.594,indie folk
+The Yawning Grave,Lord Huron,55,0.943,0.478,0.388,0.0477,11,-8.485,0,0.0295,141.996,3,0.309,indie folk
+Frozen Pines,Lord Huron,50,0.779,0.588,0.879,0.855,11,-7.877,0,0.028,141.993,4,0.5,indie folk
+Cursed,Lord Huron,48,0.661,0.58,0.903,0.629,0,-5.731,1,0.0391,154.961,4,0.636,indie folk
+Way out There,Lord Huron,48,0.933,0.549,0.454,0.0246,11,-7.898,0,0.0297,127.038,4,0.0513,indie folk
+Louisa,Lord Huron,49,0.658,0.64,0.802,0.582,2,-6.025,1,0.0281,130.035,4,0.689,indie folk
+The Night We Met,Lord Huron,81,0.969,0.545,0.366,0.267,2,-9.51,1,0.0378,86.997,3,0.1,indie folk
+Vagabond,Caamp,74,0.766,0.571,0.399,0.0146,4,-11.92,1,0.0364,141.932,4,0.612,indie folk
+Silver Lining,Mt. Joy,77,0.00114,0.541,0.616,1.09e-06,0,-6.53,1,0.028,144.218,4,0.203,pov: indie
+Why'd You Only Call Me When You're High?,Arctic Monkeys,89,0.0483,0.691,0.631,1.13e-05,2,-6.478,1,0.0368,92.004,4,0.8,garage rock
+Ode to a Conversation Stuck in Your Throat,Del Water Gap,73,0.0598,0.57,0.804,8.96e-05,11,-6.782,1,0.0701,87.533,4,0.624,deep new americana
+Unknown / Nth,Hozier,73,0.76,0.479,0.178,0.000168,2,-9.98,1,0.0382,134.856,4,0.21,irish singer-songwriter
+Francesca,Hozier,60,0.000232,0.303,0.583,1.61e-06,2,-7.217,1,0.0344,177.98,4,0.184,irish singer-songwriter
+Eat Your Young,Hozier,58,0.345,0.553,0.587,0.1,5,-6.829,1,0.0277,90.018,4,0.346,irish singer-songwriter
+All Things End,Hozier,57,0.378,0.492,0.513,0.0,9,-8.614,0,0.0449,74.883,4,0.236,irish singer-songwriter
+Like Real People Do,Hozier,73,0.921,0.539,0.179,0.393,7,-14.33,1,0.0309,140.01,3,0.145,irish singer-songwriter
+Yellow,Coldplay,92,0.00239,0.429,0.661,0.000121,11,-7.227,1,0.0281,173.372,4,0.285,permanent wave
+Something Just Like This,The Chainsmokers,88,0.0498,0.617,0.635,1.44e-05,11,-6.769,0,0.0317,103.019,4,0.446,electropop
+A Sky Full of Stars,Coldplay,89,0.00617,0.545,0.675,0.00197,6,-6.474,1,0.0279,124.97,4,0.162,permanent wave
+The Scientist,Coldplay,88,0.731,0.557,0.442,1.46e-05,5,-7.224,1,0.0243,146.277,4,0.213,permanent wave
+Angela,The Lumineers,66,0.649,0.668,0.563,0.000347,4,-8.23,1,0.0305,130.366,4,0.289,folk-pop
+Flowers in Your Hair,The Lumineers,74,0.749,0.67,0.609,6.74e-05,7,-10.088,1,0.0333,127.463,4,0.573,folk-pop
+Gloria,The Lumineers,65,0.658,0.523,0.714,5.2e-06,11,-6.021,1,0.0367,78.211,4,0.659,folk-pop
+Leader Of The Landslide,The Lumineers,56,0.804,0.46,0.437,1.65e-05,1,-8.822,1,0.0416,127.318,5,0.119,folk-pop
+Big Parade,The Lumineers,56,0.417,0.814,0.634,0.00364,4,-13.051,1,0.0498,121.98,4,0.645,folk-pop
+REPRISE,The Lumineers,55,0.611,0.6,0.512,0.0,0,-6.564,1,0.0236,80.027,4,0.27,folk-pop
+Stubborn Love,The Lumineers,23,0.615,0.596,0.548,0.0598,0,-11.71,1,0.0372,115.018,4,0.248,folk-pop
+Dead Sea,The Lumineers,60,0.81,0.713,0.319,5.71e-06,0,-11.099,1,0.028,94.043,4,0.472,folk-pop
+My Cell,The Lumineers,45,0.922,0.629,0.229,0.000611,8,-9.29,1,0.029,134.535,4,0.303,folk-pop
+Slow It Down,The Lumineers,58,0.929,0.428,0.064,0.0,1,-14.42,1,0.0374,142.436,4,0.108,folk-pop
+Charlie Boy,The Lumineers,56,0.964,0.414,0.187,0.0183,7,-13.253,1,0.0326,127.323,4,0.276,folk-pop
+Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC,The Lumineers,56,0.908,0.771,0.221,2.2e-06,10,-10.144,1,0.0382,99.793,4,0.431,folk-pop
+Classy Girls,The Lumineers,52,0.661,0.72,0.802,7.9e-06,5,-7.507,1,0.0342,121.011,4,0.497,folk-pop
+Walls,The Lumineers,59,0.692,0.609,0.44,0.0,10,-6.32,1,0.0265,108.427,4,0.43,folk-pop
+Gun Song,The Lumineers,52,0.294,0.683,0.713,2.47e-05,7,-5.512,1,0.025,96.27,4,0.286,folk-pop
+Where You Are,John Summit,79,0.00953,0.56,0.832,0.00541,9,-6.432,0,0.0363,126.0,4,0.0818,house
+False God,Taylor Swift,79,0.736,0.739,0.32,0.000147,11,-10.862,0,0.239,79.97,4,0.351,pop
+Dial Drunk (with Post Malone),Noah Kahan,86,0.121,0.667,0.613,0.0,8,-7.147,1,0.0313,112.046,4,0.681,pov: indie
+Dividends,DWLLRS,51,0.687,0.69,0.543,0.0,0,-8.137,1,0.0534,109.91,4,0.375,chill pop
+Tigersharks,Sumbuck,52,0.79,0.416,0.485,0.000404,1,-9.214,0,0.0369,83.357,4,0.247,ohio indie
+Someday (Maggie's),Zach Bryan,65,0.708,0.4,0.363,0.0,4,-7.049,1,0.0364,109.065,4,0.138,classic oklahoma country
+False Confidence,Noah Kahan,71,0.163,0.414,0.663,0.0,6,-7.77,1,0.0456,108.98,4,0.33,pov: indie
+Skinny Dipping & Mimosas,The 502s,53,0.203,0.78,0.464,6.24e-05,8,-7.692,1,0.0323,125.032,4,0.745,
+Skinny Dipping & Mimosas,The 502s,53,0.203,0.78,0.464,6.24e-05,8,-7.692,1,0.0323,125.032,4,0.745,
+Summer Wind,The 502s,42,0.432,0.618,0.548,0.00508,2,-8.386,1,0.0463,136.365,4,0.563,
+All Summer (Where You Gonna Be?),The 502s,36,0.0775,0.818,0.799,1.69e-05,6,-5.722,1,0.0431,137.146,4,0.899,
+Hurts Like Hell (feat. Offset),Madison Beer,61,0.185,0.704,0.56,0.0,1,-6.791,0,0.179,75.002,4,0.608,pop
+Cruel Summer,Taylor Swift,99,0.117,0.552,0.702,2.06e-05,9,-5.707,1,0.157,169.994,4,0.564,pop
+Better Than Revenge (Taylor's Version),Taylor Swift,88,0.000886,0.496,0.885,0.0,11,-2.969,0,0.0803,145.863,4,0.665,pop
+Dear John (Taylor's Version),Taylor Swift,87,0.0236,0.419,0.47,0.0,4,-5.016,1,0.0296,119.294,3,0.133,pop
+Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Taylor Swift,78,0.162,0.66,0.817,0.0,11,-6.269,0,0.0521,135.942,4,0.714,pop
+Feel This Moment (feat. Christina Aguilera),Pitbull,81,0.039,0.673,0.758,0.0,7,-3.632,1,0.158,135.956,4,0.542,dance pop
+I Can See You (Taylor’s Version) (From The Vault),Taylor Swift,93,0.0586,0.694,0.764,0.0,6,-4.893,1,0.0337,123.044,4,0.819,pop
+Satellite,Harry Styles,87,0.143,0.576,0.457,3.05e-05,0,-6.473,1,0.0304,138.984,4,0.301,pop
+Style,Taylor Swift,71,0.00245,0.588,0.791,0.00258,7,-5.595,1,0.0402,94.933,4,0.487,pop
+About You,The 1975,83,0.312,0.416,0.762,0.804,2,-7.385,1,0.0279,95.967,4,0.461,modern alternative rock
+august,Taylor Swift,90,0.538,0.532,0.623,7.28e-05,5,-9.208,1,0.0331,89.937,4,0.403,pop
+Would That I,Hozier,75,0.243,0.521,0.526,0.00537,5,-6.032,1,0.0281,130.694,4,0.502,irish singer-songwriter
+the last great american dynasty,Taylor Swift,78,0.467,0.686,0.662,0.0023,7,-8.505,1,0.0413,147.922,4,0.706,pop
+Sour Patch Kids,Bryce Vine,61,0.017,0.483,0.777,1.92e-05,4,-5.049,1,0.0617,152.957,4,0.571,indie pop rap
+Magic In The Hamptons (feat. Lil Yachty),Social House,76,0.66,0.769,0.479,0.0,1,-5.339,1,0.0385,96.051,4,0.803,
+Up Up & Away,Kid Cudi,67,0.0722,0.66,0.881,3.4e-05,10,-6.119,0,0.0849,120.017,4,0.586,hip hop
+Senior Skip Day,Mac Miller,66,0.554,0.522,0.725,0.0,5,-5.184,0,0.302,108.364,4,0.81,hip hop
+As It Was,Harry Styles,92,0.342,0.52,0.731,0.00101,6,-5.338,0,0.0557,173.93,4,0.662,pop
+Judy You Hung the Moon,HARBOUR,63,0.507,0.65,0.648,0.0,6,-7.701,0,0.0336,139.989,4,0.625,cincinnati indie
+London Boy,Taylor Swift,82,0.0246,0.695,0.71,0.000104,1,-6.639,1,0.05,157.925,4,0.557,pop

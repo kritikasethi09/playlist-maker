@@ -19,6 +19,12 @@ playlist_link = "https://open.spotify.com/playlist/5jbbLJqtKuqhRENtQFdrqi?si=801
 playlist_URI = playlist_link.split("/")[-1].split("?")[0]
 track_uris = [x["track"]["uri"] for x in sp.playlist_tracks(playlist_URI)["items"]]
 
+def get_primary_genre(artist_id):
+    artist_info = sp.artist(artist_id)
+    genres = artist_info['genres']
+    primary_genre = genres[0] if genres else None
+    return primary_genre
+
 total_tracks = sp.playlist_tracks(playlist_URI)["total"]
 limit = 100
 track_data = []
@@ -29,7 +35,9 @@ for offset in range(0, total_tracks, limit):
         track_name = track["track"]["name"]
         artist_name = track["track"]["artists"][0]["name"]
         track_pop = track["track"]["popularity"]
-
+        artist_id = track["track"]["artists"][0]["id"]
+        primary_genre = get_primary_genre(artist_id)
+        
         audio_features = sp.audio_features(track_uri)[0]
         acousticness = audio_features['acousticness']
         danceability = audio_features['danceability']
@@ -58,8 +66,13 @@ for offset in range(0, total_tracks, limit):
         'Tempo': tempo,
         'Time Signature': time_signature,
         'Valence': valence,
+        'Genres': primary_genre,
         })
 df = pd.DataFrame(track_data)
 with open('raw_data.txt', 'w') as output:
     output.write('Raw Data:\n')
     output.write(df.to_string(index=False))
+
+
+#put it in csv file to make it easier to use for visualizations
+df.to_csv('raw_data.csv', index=False)
